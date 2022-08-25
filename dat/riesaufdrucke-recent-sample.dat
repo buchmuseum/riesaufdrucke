@@ -4,176 +4,171 @@
 0502 ohne Hilfsmittel zu benutzen$bn
 0503 Blatt$bnb
 0600 yy
-1100 1600$n[zwischen 1600 und 1616]
-1110 1600-1616 (Wirkungszeit des Papiermachers)*1600-1616$a1600$b1616$4vzta
+1100 1744$n[zwischen 1744 und 1784]
+1110 1744-1784 (Wirkungszeit des Papiermachers)*1744-1784$a1744$b1784$4vzta
+1130 TB-papier-hr
+1131 !041454197!
+1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
+1500 /1zxx
+1700 /1XA-CZ
+3000 !1052246133!$BPapiermacher$4ppm
+3100 !1043864644!$BGeistiger Schöpfer$4cre
+4000 Riesaufdruck des Papiermachers Johann Adam Michel, Motiv: Harfe spielender König David / Papiermühle Grün
+4019 Druckgrafik$Bobja
+4019 IAM$Bdevi
+4046 Doubrava : Papiermühle Grün
+4060 1 ungezähltes Blatt
+4062 415 x 292 mm$b415$h292$4bltt
+4062 207 x 130 mm$b207$h130$4bld
+4105 !1257829130!
+4201 Wasserzeichen
+5100 !942131606!
+5101 !041205790!
+5590 [Objektgattung]
+5590 !042115752!
+5591 [Technik]
+5591 !40257363!
+5592 [Druck]
+5592 !041507266!
+5592 !041803329!
+5593 [Entstehungsort]
+5593 !1043862811!
+7001 25-08-22 : x
+4800 !009033645!
+6710 !1032059397!
+7100 PS.RA @ m
+7109 !!DBSM/S!! ; PS.RA 1980/Bl 88
+	
+0500 Pa
+0501 unbewegtes Bild$bsti
+0501 text$btxt
+0502 ohne Hilfsmittel zu benutzen$bn
+0503 Blatt$bnb
+0600 yy
+1100 1748$n[zwischen 1748 und 1785]
+1110 1748-1785 (Wirkungszeit des Papiermachers)*1748-1785$a1748$b1785$4vzta
 1130 TB-papier-hr
 1131 !041454197!
 1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
 1500 /1zxx
 1700 /1XA-DXDE
-3000 !105175738X!$BPapiermacher$4ppm
-3100 !1037463137!$BGeistiger Schöpfer$4cre
-4000 Riesaufdruck des Papiermachers Ciriacus Kleber, Motiv: drei im Kreis miteinander verbundene Wappen, belegt mit Jungfrauenadler, Nürnberger Wappen, Schwan beseitet mit CK / Weidenmühle
+3000 !125981954X!$BPapiermacher$4ppm
+3100 !1037327365!$BGeistiger Schöpfer$4cre
+4000 Riesaufdruck des Papiermachers Johann Bartholomäus Schleicher, Motiv: Wappen der Reichsgrafen von Giech mit Grafenkrone, Schildhalterengeln und Seenlandschaft / Papiermühle Heubsch
 4019 Druckgrafik$Bobja
-4019 CK$Bdevi
-4046 Nürnberg : Weidenmühle
+4019 Thurnauer feines Schreib Papier Johann Bartholomäus Schleicher$Bdevi
+4046 Heubsch : Papiermühle Heubsch
 4060 1 ungezähltes Blatt
-4062 96 x 93 mm$b96$h93$4bltt
-4062 75 x 75 mm$b75$h75$4bld
+4062 350 x 220 mm$b350$h220$4bltt
+4062 294 x 170 mm$b294$h170$4bld
+4062 294 x 170 mm$b294$h170$4drck
 4105 !1257829130!
-4201 Der Aufdruck der auf Nürnberger Stadtgebiet gelegenen Papiermühle zeigt zwei der Reichsstadt Nürnberg zugeordneten Wappen: Schild mit Jungfernadler und gespaltener Schild mit Reichsadler und Schrägbalken. Im unteren Schild, der von den Initialen des Papiermachers beseitet ist, ist ein Schwan oder Pelikan abgebildet. (Schlieder 1988, S. 32/33)
+4201 Dieser Aufdruck zeigt ebenfalls das auch im Wasserzeichen der Papiere enthaltene Wappen der Reichsgrafen von Giech. Die Darstellung mit Grafenkrone, Schildhalterengeln und Seenlandschaft wurde für feines schreibpapier, also für eine bessere Papiersorte, verwendet. (Schlieder 1988, S. 126/127)
+4201 Wasserzeichen
+4201 1 Dublette
 4276 !891000038!$4lita
 4276 !891000038!$4abba
 5100 !954480481!
-5101 !950119717!
-5102 !94362990X!
-5590 [Objektgattung]
-5590 !042115752!
-5591 [Technik]
-5591 !40257363!
-5592 [Druck]
-5592 !041507266!
-5592 !041784820!
-5593 [Entstehungsort]
-5593 !040427420!
-7001 25-08-22 : x
-4800 !009033645!
-6710 !1032059397!
-7100 PS.RA @ m
-7109 !!DBSM/S!! ; PS.RA 1971/Bl 217
-	
-0500 Pa
-0501 unbewegtes Bild$bsti
-0501 text$btxt
-0502 ohne Hilfsmittel zu benutzen$bn
-0503 Blatt$bnb
-0600 yy
-1130 TB-papier
-1131 !041454197!
-1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
-1500 /1zxx
-1700 /1XA-DXDE
-4000 Riesaufdruck eines unbekannten Papiermachers, Motiv: eingerahmte Stadtansicht beseitet von Wappen mit gekröntem Doppeladler und Wappen der Stadt Ravensburg
-4019 Druckgrafik$Bobja
-4019 Des Heil- Röm-Reichs Statt Raven Bürg$Bdevi
-4046 Ravensburg : [Nicht ermittelbar]
-4060 1 ungezähltes Blatt
-4062 175 x 348 mm$b175$h348$4bltt
-4062 169 x 342 mm$b169$h342$4bld
-4105 !1257829130!
-5100 !041266978!
-5101 !954901096!
-5102 !041962494!
-5590 [Objektgattung]
-5590 !042115752!
-5591 [Technik]
-5591 !40257363!
-5592 [Druck]
-5592 !041507266!
-5592 !041803329!
-5593 [Entstehungsort]
-5593 !040486346!
-7001 25-08-22 : x
-4800 !009033645!
-6710 !1032059397!
-7100 PS.RA @ m
-7109 !!DBSM/S!! ; PS.RA 1971/Bl 211
-8034 vermutlich Nachdruck
-	
-0500 Pa
-0501 unbewegtes Bild$bsti
-0501 text$btxt
-0502 ohne Hilfsmittel zu benutzen$bn
-0503 Blatt$bnb
-0600 yy
-1100 1801$n[zwischen 1801 und 1900]
-1110 19. Jahrhundert*1801-1900$a1801$b1900$4vzta
-1130 TB-papier
-1131 !041454197!
-1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
-1500 /1zxx
-1700 /1XA-NL
-4000 Riesaufdruck eines unbekannten Papiermachers, Motiv: im Blattkreis Wappenschild mit Muschel belegt
-4019 Druckgrafik$Bobja
-4019 Holland Super Fine J. H. & Co.$Bdevi
-4046 [Nicht ermittelbar] : [Nicht ermittelbar]
-4060 1 ungezähltes Blatt
-4062 492 x 630 mm$b492$h630$4bltt
-4062 145 x 136 mm$b145$h136$4bld
-4105 !1257829130!
-5100 !042567297!
-5590 [Objektgattung]
-5590 !042115752!
-5591 [Technik]
-5591 !40257363!
-5592 [Druck]
-5592 !041507266!
-5592 !041784820!
-7001 25-08-22 : x
-4800 !009033645!
-6710 !1032059397!
-7100 PS.RA @ m
-7109 !!DBSM/S!! ; PS.RA 1972/Bl 11
-	
-0500 Pa
-0501 unbewegtes Bild$bsti
-0501 text$btxt
-0502 ohne Hilfsmittel zu benutzen$bn
-0503 Blatt$bnb
-0600 yy
-1100 1850$n[zwischen 1850 und 1972]
-1110 1850-1972*1850-1972$a1850$b1972$4vzta
-1130 TB-papier
-1131 !041454197!
-1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
-1500 /1zxx
-1700 /1XA-NL
-4000 Riesaufdruck eines unbekannten Papiermachers, Motiv: im gekrönten von Blattranken umrahmten Kreis Wappenschild belegt mit holländischem Löwen
-4019 Druckgrafik$Bobja
-4019 Concordia res parvae crescunt I P. Out Koog a. d. Zaan$Bdevi
-4046 Koog aan de Zaan : [Nicht ermittelbar]
-4060 1 ungezähltes Blatt
-4062 470 x 625 mm$b470$h625$4bltt
-4062 207 x 172 mm$b207$h172$4bld
-4105 !1257829130!
-4201 Holland, Koog a. d. Zaan / Buchhändler P. Out (1830-1911), Papierverkauf seit 1890 (Kartei)
-5100 !041144368!
-5590 [Objektgattung]
-5590 !042115752!
-5591 [Technik]
-5591 !40257363!
-5592 [Druck]
-5592 !041507266!
-5592 !041784820!
-5593 [Entstehungsort]
-5593 !975469568!
-7001 25-08-22 : x
-4800 !009033645!
-6710 !1032059397!
-7100 PS.RA @ m
-7109 !!DBSM/S!! ; PS.RA 1972/Bl 18
-	
-0500 Pa
-0501 unbewegtes Bild$bsti
-0501 text$btxt
-0502 ohne Hilfsmittel zu benutzen$bn
-0503 Blatt$bnb
-0600 yy
-1130 TB-papier
-1131 !041454197!
-1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
-1500 /1zxx
-1700 /1XA-DXDE
-4000 Riesaufdruck eines unbekannten Papiermachers, Motiv: zwei von Lorbeerzweigen umkränzte Schilde, einer belegt mit gekröntem Baselstab und einer belegt mit Vierermarke und überhöht mit Baselstab
-4019 Druckgrafik$Bobja
-4019 Fein Cantzlei Basler Stab Pappier$Bdevi
-4046 Ravensburg : [Nicht ermittelbar]
-4060 1 ungezähltes Blatt
-4062 168 x 241 mm$b168$h241$4bltt
-4062 156 x 228 mm$b156$h228$4bld
-4105 !1257829130!
-5100 !954480481!
 5101 !041658019!
+5102 !041231392!
+5103 !04275397X!
+5104 !94362990X!
+5320 !1043028226!
+5590 [Objektgattung]
+5590 !042115752!
+5591 [Technik]
+5591 !04033760X!
+5592 [Druck]
+5592 !041507266!
+5592 !041803329!
+5593 [Entstehungsort]
+5593 !1037327063!
+7001 25-08-22 : x
+4800 !009033645!
+6710 !1032059397!
+6800 Provenienz]
+6800 !050688081!
+6800 row.provenienz
+7100 PS.RA @ m
+7109 !!DBSM/S!! ; PS.RA 1971/Bl 303
+8034 Nachdruck
+	
+0500 Pa
+0501 unbewegtes Bild$bsti
+0501 text$btxt
+0502 ohne Hilfsmittel zu benutzen$bn
+0503 Blatt$bnb
+0600 yy
+1100 1801$n[zwischen 1801 und 1850]
+1110 erste Hälfte 19. Jahrhundert*1801-1850$a1801$b1850$4vzta
+1130 TB-papier
+1131 !041454197!
+1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
+1500 /1zxx
+1700 /1XA-NL
+4000 Riesaufdruck eines unbekannten Papiermachers, Motiv: ein an Blüten und Schleife hängendes Posthorn zwischen Blütengirlanden
+4019 Druckgrafik$Bobja
+4019 Super Fine Fine C. & J. Honig$Bdevi
+4046 Zaandijk : [Nicht ermittelbar]
+4060 1 ungezähltes Blatt
+4062 415 x 522 mm$b415$h522$4bltt
+4062 185 x 162 mm$b185$h162$4bld
+4105 !1257829130!
+4201 Der ebenfalls einer Papiermühle der Firma C. & J. Honig zuzuweisende Aufdruck wurde für Postpapier guter Qualität verwendet, worauf das abgebildete Posthorn hinweist. Der Bogen selbst besteht aus grobem Papier und diente offensichtlich mit einem zweiten Bogen zur Umhüllung einer kleineren Menge des Briefpapiers. (Schlieder 1988, S. 168/169)
+4276 !891000038!$4lita
+4276 !891000038!$4abba
+5100 !963257161!
+5590 [Objektgattung]
+5590 !042115752!
+5591 [Technik]
+5591 !40257363!
+5592 [Druck]
+5592 !041507266!
+5592 !041784820!
+5593 [Entstehungsort]
+5593 !1152976672!
+7001 25-08-22 : x
+4800 !009033645!
+6710 !1032059397!
+7100 PS.RA @ m
+7109 !!DBSM/S!! ; PS.RA 1972/Bl 28
+8034 handschriftliche Notiz auf Vorderseite (wegradiert)
+	
+0500 Pa
+0501 unbewegtes Bild$bsti
+0501 text$btxt
+0502 ohne Hilfsmittel zu benutzen$bn
+0503 Blatt$bnb
+0600 yy
+1100 1770$n[zwischen 1770 und 1815]
+1110 1770-1815 (Wirkungszeit des Papiermachers)*1770-1815$a1770$b1815$4vzta
+1130 TB-papier-hr
+1131 !041454197!
+1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
+1500 /1zxx
+1700 /1XA-DXDE
+3000 !1047030314!$BPapiermacher$4ppm
+3100 !1037232232!$BGeistiger Schöpfer$4cre
+4000 Riesaufdruck des Papiermachers Johann Friedrich Quinat, Motiv: in zwei Lorbeerkränzen Wappen mit Initiale R, darunter Tannenbaum mit Wurzeln, am Stamm Schild mit Ankermarke und Männerprofil / Untere Fichtenmühle
+4019 Druckgrafik$Bobja
+4019 R R Mittel-Fichten I. F. Q.$Bdevi
+4046 Schwabach : Untere Fichtenmühle
+4060 1 ungezähltes Blatt
+4062 357 x 445 mm$b357$h445$4bltt
+4062 280 x 175 mm$b280$h175$4bld
+4105 !1257829130!
+4201 Der Fichtenbaum erscheint wohl zum ersten Mal in den Wasserzeichen der in der Nähe gelegenen Oberfichtenmühle und wude von der später gegründeten Unterfichtenmühle übernommen. Der Riesaufdruck, der für ein mittleres Schreibpapier verwendet wurde, bildet neben dem Sortennamen und den Initialen des Papiermachers die im Wasserzeichen enthaltene Fichte ab. Wie bei der Papiermühle Unterkochen finden wir auch hier die mit dem Buchstaben "R" belegten Schilde im Blattkranz. Der doppelte Abdruck weist eventuell auf eine bessere Papiersorte hin. (Schlieder 1988, S. 132/133)
+4201 Wasserzeichen
+4276 !891000038!$4lita
+4276 !891000038!$4abba
+5100 !948817267!
+5101 !041126750!
+5102 !041796012!
+5103 !961559934!
+5320 !1043002790!
+5320 !1043027505!
+5320 !1043027424!
+5320 !1043027661!
 5590 [Objektgattung]
 5590 !042115752!
 5591 [Technik]
@@ -182,11 +177,52 @@
 5592 !041507266!
 5592 !041803329!
 5593 [Entstehungsort]
-5593 !040486346!
+5593 !040536653!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
 7100 PS.RA @ m
-7109 !!DBSM/S!! ; PS.RA 1972/Bl 6
-8034 vermutlich Nachdruck
+7109 !!DBSM/S!! ; PS.RA 1971/Bl 107
+	
+0500 Pa
+0501 unbewegtes Bild$bsti
+0501 text$btxt
+0502 ohne Hilfsmittel zu benutzen$bn
+0503 Blatt$bnb
+0600 yy
+1100 1801$n[zwischen 1801 und 1850]
+1110 erste Hälfte 19. Jahrhundert*1801-1850$a1801$b1850$4vzta
+1130 TB-papier-hr
+1131 !041454197!
+1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
+1500 /1zxx
+1700 /1XA-NL
+4000 Riesaufdruck eines unbekannten Papiermachers, Motiv: im gekrönten Kreis Wappenschild mit holländischem Löwen belegt, Kreis und Krone mit Blattzweigen umrahmt
+4019 Druckgrafik$Bobja
+4019 C. & I. H.$Bdevi
+4046 Zaandijk : [Nicht ermittelbar]
+4060 1 ungezähltes Blatt
+4062 334 x 427 mm$b334$h427$4bltt
+4062 175 x 132 mm$b175$h132$4bld
+4105 !1257829130!
+4201 Unter der Firmenbezeichnung "Cornelis & Jacob Honig" wurden u. a. die Papiermühlen "Het Herderskind" von 1733-1856 und "De Veenboer" von 1738-1879 betrieben. Es ist zu vermuten, dass der Riesaufdruck von einer dieser Papiermühlen stammt. Dieser für Schreibpapier verwendete Aufdruck bildet den holländischen Freiheitslöwen ab, der in den Pranken ein Schwert und ein Bündel mit sieben Pfeilen hält. Diese symbolisieren die sieben befreiten und vereinigten holländischen Provinzen. (Schlieder 1988, S. 166/167)
+4276 !891000038!$4lita
+4276 !891000038!$4abba
+5100 !041144368!
+5320 !1043027963!
+5590 [Objektgattung]
+5590 !042115752!
+5591 [Technik]
+5591 !40257363!
+5592 [Druck]
+5592 !041507266!
+5592 !041784820!
+5593 [Entstehungsort]
+5593 !1152976672!
+7001 25-08-22 : x
+4800 !009033645!
+6710 !1032059397!
+7100 PS.RA @ m
+7109 !!DBSM/S!! ; PS.RA 1972/Bl 27
+8034 handschriftliche Notiz auf Voderseite: WZ a) C. & I. Honig b) leer
 	

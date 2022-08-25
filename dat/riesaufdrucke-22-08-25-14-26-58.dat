@@ -31,9 +31,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40486346
+5593 !040486346!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -72,9 +72,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 960259481
+5593 !960259481!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -111,9 +111,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 951591258
+5593 !951591258!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -154,9 +154,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40486346
+5593 !040486346!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -198,9 +198,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40486346
+5593 !040486346!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -241,9 +241,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40486346
+5593 !040486346!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -275,8 +275,8 @@
 4062 143 x 141 mm$b143$h141$4bld
 4105 !1257829130!
 4201 Ein weiterer Riesaufdruck von der Papiermühle des Johann Samuel Kutter zeigt den gekrönten Reichsadler, womit auf den Status Ravensburgs als Reichsstadt hingewiesen wird. Adlerpapier dieser Papiermühle ist für 1790 belegt. Der Nachdruck stammt von einem Druckstock, der sich heute im Deutschen Buch- und Schriftmuseum in Leipzig befindet. (Schlieder 1988, S. 158/159)
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 4276 Motiv identisch zu RA 1971/Bl 205, RA 1971/Bl 206, RA 1971/Bl 207, RA 1975/Bl 132$4rela
 5100 !954901096 041658019 945895291!
 5590 [Objektgattung]
@@ -285,9 +285,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40486346
+5593 !040486346!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -320,8 +320,8 @@
 4105 !1257829130!
 4201 Im 18. Jahrhundert besaßen Angehörige der Kaufmannsfamilie Kutter fünf der sechs in Ravensburg vorhandenen Papiermühlen. Die Initialen des Johann Samuel Kutter weisen diesen Riesaufdruck der oberen Papiermühle im Ölschwang zu. Für den späteren Nachdruck vom erhalten gebliebenen Druckstock waren weder eine genaue Datierung noch der von Kutter beschäftigte Papiermachermeister zu ermitteln. (Schlieder 1988, S. 156/157)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5100 !946418373!
 5101 !041658019!
 5320 !1043027912!
@@ -331,9 +331,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40486346
+5593 !040486346!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -360,16 +360,16 @@
 4062 186 x 239 mm$b186$h239$4bltt
 4062 174 x 221 mm$b174$h221$4bld
 4105 !1257829130!
-5100 !41126750!
+5100 !041126750!
 5590 [Objektgattung]
 5590 !042115752!
 5591 [Technik]
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40486346
+5593 !040486346!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -396,7 +396,7 @@
 4062 175 x 348 mm$b175$h348$4bltt
 4062 169 x 342 mm$b169$h342$4bld
 4105 !1257829130!
-5100 !41266978!
+5100 !041266978!
 5101 !954901096!
 5102 !041962494!
 5590 [Objektgattung]
@@ -405,9 +405,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40486346
+5593 !040486346!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -444,9 +444,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40302342
+5593 !040302342!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -478,8 +478,8 @@
 4062 137 x 87 mm$b137$h87$4bld
 4105 !1257829130!
 4201 Der Ortsteil Hasserode wurde 1694 brandenburgisch und war später ein königlich-preußisches Amt. Daher wurde diese Hasseröder Papiermühle auch königliche Papiermühle genannt. Das im Riesaufdruck abgebildete Zepter, das im Wappen der Kurfürsten von Brandenburg als Zeichen der Erzkämmerwürde geführt wurde, weist auf die Gebietszugehörigkeit der Papiermühle hin. (Schlieder 1988, S. 114/115)
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5100 !954480481!
 5101 !041658019!
 5590 [Objektgattung]
@@ -488,9 +488,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 103226358X
+5593 !103226358X!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -521,8 +521,8 @@
 4105 !1257829130!
 4201 Der Riesaufdruck, von dem noch zwei weitere Exemplare in gleicher Ausführung vorhanden sind, zeigt das Wappen der Herrschaft Schönburg, der Besitzerin der Papiermühle. Die Buchstabenfolge im oberen Schriftband ist als "Herr von Schönburg, Herr zu Glauchau und Waldenburg" aufzulösen. Im unteren Schriftband findet sich der Name des Papiermachers und der Ort der Papiermühle. Alle drei erhaltenen Aufdrucke sind mit gleichen Farben, eventuell mit Schablone, grob koloriert. (Schlieder 1988, S. 34/35)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 4276 Motiv ähnlich zu RA 1973/Bl 26 und RA 1981/Dok 34$4rela
 5100 !954480481!
 5320 !1043026061!
@@ -532,9 +532,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 04244876X
+5593 !04244876X!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -566,8 +566,8 @@
 4062 75 x 75 mm$b75$h75$4bld
 4105 !1257829130!
 4201 Der Aufdruck der auf Nürnberger Stadtgebiet gelegenen Papiermühle zeigt zwei der Reichsstadt Nürnberg zugeordneten Wappen: Schild mit Jungfernadler und gespaltener Schild mit Reichsadler und Schrägbalken. Im unteren Schild, der von den Initialen des Papiermachers beseitet ist, ist ein Schwan oder Pelikan abgebildet. (Schlieder 1988, S. 32/33)
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5100 !954480481!
 5101 !950119717!
 5102 !94362990X!
@@ -577,9 +577,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 40427420
+5593 !040427420!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -619,9 +619,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40536653
+5593 !040536653!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -656,9 +656,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 1037166140
+5593 !1037166140!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -697,14 +697,14 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 1037166140
+5593 !1037166140!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
 6800 Provenienz]
-6800 !6800 - IDN Provenienz!
+6800 !050688081!
 6800 row.provenienz
 7100 PS.RA @ m
 7109 !!DBSM/S!! ; PS.RA 1971/Bl 290
@@ -736,9 +736,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 1037166140
+5593 !1037166140!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -765,7 +765,7 @@
 4062 350 x 215 mm$b350$h215$4bltt
 4062 299 x 191 mm$b299$h191$4bld
 4105 !1257829130!
-5100 !41231392!
+5100 !041231392!
 5101 !955500249!
 5590 [Objektgattung]
 5590 !042115752!
@@ -773,9 +773,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 1037166140
+5593 !1037166140!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -805,7 +805,7 @@
 4062 313 x 202 mm$b313$h202$4bltt
 4062 299 x 191 mm$b299$h191$4bld
 4105 !1257829130!
-5100 !41231392!
+5100 !041231392!
 5101 !955500249!
 5590 [Objektgattung]
 5590 !042115752!
@@ -813,9 +813,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 1037166140
+5593 !1037166140!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -846,7 +846,7 @@
 4062 299 x 188 mm$b299$h188$4bld
 4105 !1257829130!
 5100 !954901096!
-5101 !41231392!
+5101 !041231392!
 5102 !955500249!
 5103 !04117612X!
 5590 [Objektgattung]
@@ -855,9 +855,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 1037166140
+5593 !1037166140!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -887,7 +887,7 @@
 4062 295 x 193 mm$b295$h193$4bltt
 4062 286 x 182 mm$b286$h182$4bld
 4105 !1257829130!
-5100 !41231392!
+5100 !041231392!
 5101 !954901096!
 5590 [Objektgattung]
 5590 !042115752!
@@ -895,9 +895,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 1037166140
+5593 !1037166140!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -929,9 +929,9 @@
 4062 287 x 223 mm$b287$h223$4bld
 4105 !1257829130!
 4201 Die Figur mit dem Stein, der "Steinwender", deutet als redendes Zeichen auf den Ortsnamen hin. Die Sortenbezeichnung "Entenpapier" ergibt sich aus der langjährig im Wasserzeichen der Papiermühle geführten Ente. Diese wiederum ist als redendes Zeichen des Namens der berühmten Nürnberger Drucker- und Buchhändlerfamilie Endter zu deuten, deren Angehörige die Papiermühle Wendelstein vom Anfang des 17. Jahrhunderts bis 1738 besaßen. (Schlieder 1988, S. 48/49)
-4276 891000038$4lita
-4276 891000038$4abba
-5100 !41231392!
+4276 !891000038!$4lita
+4276 !891000038!$4abba
+5100 !041231392!
 5101 !041830156!
 5590 [Objektgattung]
 5590 !042115752!
@@ -939,9 +939,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40654915
+5593 !040654915!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -971,7 +971,7 @@
 4062 284 x 201 mm$b284$h201$4bltt
 4062 243 x 177 mm$b243$h177$4bld
 4105 !1257829130!
-5100 !41231392!
+5100 !041231392!
 5101 !955500249!
 5590 [Objektgattung]
 5590 !042115752!
@@ -979,9 +979,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 1037166140
+5593 !1037166140!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -1012,7 +1012,7 @@
 4062 125 x 120 mm$b125$h120$4bltt
 4062 78 x 73 mm$b78$h73$4bld
 4105 !1257829130!
-5100 !41157915!
+5100 !041157915!
 5101 !948817267!
 5590 [Objektgattung]
 5590 !042115752!
@@ -1020,9 +1020,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40152995
+5593 !040152995!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -1057,8 +1057,8 @@
 4201 Die im Vergleich zu dem auf Seite 125 abgebildeten Riesaufdruck kunstvoller ausgeführte Wappendarstellung im gekrönten und mit Palmenzweigen umkränzten, von zwei heraldischen Lilien beseiteten Zieroval diente zur Bezeichnung von Briefpapier, ebenfalls einer besseren Papiersorte. (Schlieder 1988, S. 128/129)
 4201 Wasserzeichen
 4201 2 Dubletten
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5100 !954480481!
 5101 !041658019!
 5102 !041676653!
@@ -1068,9 +1068,9 @@
 5591 !04033760X!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 1037327063
+5593 !1037327063!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -1111,9 +1111,9 @@
 5591 !04033760X!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 1037327063
+5593 !1037327063!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -1147,11 +1147,11 @@
 4201 Dieser Aufdruck zeigt ebenfalls das auch im Wasserzeichen der Papiere enthaltene Wappen der Reichsgrafen von Giech. Die Darstellung mit Grafenkrone, Schildhalterengeln und Seenlandschaft wurde für feines schreibpapier, also für eine bessere Papiersorte, verwendet. (Schlieder 1988, S. 126/127)
 4201 Wasserzeichen
 4201 1 Dublette
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5100 !954480481!
 5101 !041658019!
-5102 !41231392!
+5102 !041231392!
 5103 !04275397X!
 5104 !94362990X!
 5320 !1043028226!
@@ -1161,14 +1161,14 @@
 5591 !04033760X!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 1037327063
+5593 !1037327063!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
 6800 Provenienz]
-6800 !6800 - IDN Provenienz!
+6800 !050688081!
 6800 row.provenienz
 7100 PS.RA @ m
 7109 !!DBSM/S!! ; PS.RA 1971/Bl 303
@@ -1196,9 +1196,9 @@
 4105 !1257829130!
 4201 Das zunächst in Franken verbreitete "Tannenbaum-" oder "Fichtenpapier" verkaufte sich wegen seiner guten Qualität sehr günstig. Dieses Wasserzeichen wurde daher von verschiedenen Papiermühlen, wie hier von Imhof zu Höfen, nachgeahmt. Imhof war Basler Bürger und hatte die Papiermühle Höfen von Angehörigen der Papiermacherfamilie Blum gekauft. (Schlieder 1988, S. 138/139)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
-5100 !41126750!
+4276 !891000038!$4lita
+4276 !891000038!$4abba
+5100 !041126750!
 5320 !1043027424!
 5320 !1043027467!
 5590 [Objektgattung]
@@ -1207,9 +1207,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40532003
+5593 !040532003!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -1241,8 +1241,8 @@
 4062 228 x 118 mm$b228$h118$4bld
 4105 !1257829130!
 4201 Der Reichsadler, belegt mit Mühleisen im Herzschild, im Wappenschild mit Helm, Helmdecken und mit Lindenzweigen bestückten Büffelhörnern als Helmzier, stellt das Wappen der Reichsstadt Mühlhausen dar. Durch Vergleich des Wasserzeichens im Bogen mit dem gleichen Typ des Reichsadlers, von dem auch die Sortenbezeichnung des Papiers abgeleitet ist, müsste der Aufdruck dem Papiermacher F.C. Wenther dem Jüngeren zuzuweisen sein. (Schlieder 1988, S. 122/123)
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5100 !954480481!
 5101 !987413031!
 5102 !950119717!
@@ -1254,9 +1254,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 40404668
+5593 !040404668!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -1289,8 +1289,8 @@
 4105 !1257829130!
 4201 Wie das Kursivmonogramm auf dem gekrönten Schild (verschlungenes "NZ") zeigt, stammt der Druckstock vom Gründer der Papiermühle, dem Altenburger Rat und Amtmann Nikolaus Zapf. Dieser besaß das Werk seit der Errichtung um 1690 bis zum Jahre 1700 und, nach Wiederkauf, von 1714-1727. Nachdem Gröner am 5. Februar 1756 mit der Papiermühle auch den Druckstock erworben hatte, ließ er seinen Namen im Schriftband unter dem Schild hinzusetzen und verwendete die Druckform weiter. Auch die ursprünglich eingesetzte Herkunftsbezeichnung "Altenburg Gut Schreib-Papier" ergänzt er selbstbewußt durch den eigentlichen Standort der Papiermühle in Großstöbnitz. (Schlieder 1988, S. 120/121)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5100 !954480481!
 5101 !041796012!
 5102 !042257794!
@@ -1302,9 +1302,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 1139472771
+5593 !1139472771!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -1336,8 +1336,8 @@
 4062 197 x 145 mm$b197$h145$4bld
 4105 !1257829130!
 4201 Der Papiermacher J.C. Herrmann, der die untere Papiermühle in Zwickau 1745 kaufte, führte sein verschlungenes Kursivmonogramm "JHC" im Wasserzeichen und bildete es daher, gekrönt zwischen Zweigen, auch auf dem Riesaufdruck aus. (Schlieder 1988, S. 28/29)
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5100 !948817267!
 5101 !041658019!
 5102 !949931888!
@@ -1347,9 +1347,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40682625
+5593 !040682625!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -1379,9 +1379,9 @@
 4105 !1257829130!
 4201 Der Bogen stammt aus dem Stadtarchiv Lemgo, wo er als Aktenumschlag für Protokolle aus den Jahren 1626-1628 diente. Der Aufdruck bildet einen mit Zierstück belegten Schild ab. Darunter ist die Pächterin und der Ort der Papiermühle in veränderter Schreibweise angegeben. (Schlieder 1988, S. 38/39)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
-5100 !41796012!
+4276 !891000038!$4lita
+4276 !891000038!$4abba
+5100 !041796012!
 5320 !104297389X!
 5590 [Objektgattung]
 5590 !042115752!
@@ -1389,9 +1389,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 1051891639
+5593 !1051891639!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -1424,8 +1424,8 @@
 4105 !1257829130!
 4201 Das Fragment eines weiteren Riesaufdrucks von Johann Hiob Röder zeigt die gleiche Darstellung in aufwendigeren Formen. Nach der Beschaffenheit des Bogens diente er offensichtlich für die Bezeichnung eines guten Schreibpapiers. Die bessere Papierqualität könnte der Grund für eine repräsentativere Ausführung sein. (Schlieder 1988, S. 108/109)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5100 !954480481!
 5101 !041658019!
 5102 !041796012!
@@ -1437,9 +1437,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 1016072635
+5593 !1016072635!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -1469,7 +1469,7 @@
 4062 157 x 208 mm$b157$h208$4bltt
 4062 154 x 190 mm$b154$h190$4bld
 4105 !1257829130!
-5100 !41126750!
+5100 !041126750!
 5101 !949931888!
 5320 !1042953368!
 5590 [Objektgattung]
@@ -1477,7 +1477,7 @@
 5591 [Technik]
 5591 !42419832!
 5593 [Entstehungsort]
-5593 942282892
+5593 !942282892!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -1568,7 +1568,7 @@
 5592 [Druck]
 5592 !041507266!
 5592 !965620964!
-5592 !41803329!
+5592 !041803329!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -1603,9 +1603,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40486346
+5593 !040486346!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -1640,9 +1640,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 1015607136
+5593 !1015607136!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -1669,16 +1669,16 @@
 4062 128 x 187 mm$b128$h187$4bltt
 4062 116 x 175 mm$b116$h175$4bld
 4105 !1257829130!
-5100 !41157915!
+5100 !041157915!
 5590 [Objektgattung]
 5590 !042115752!
 5591 [Technik]
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40486346
+5593 !040486346!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -1712,10 +1712,10 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5592 !041784820!
 5593 [Entstehungsort]
-5593 40219720
+5593 !040219720!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -1747,8 +1747,8 @@
 4062 175 x 172 mm$b175$h172$4bld
 4105 !1257829130!
 4201 In dieser 1714 gegründeten Papiermühle wurden häufig die Wasserzeichen holländischer Papiermühlen nachgeahmt. So hat dieser Riesaufdruck, der von einem 1929 aufgefundenen, allerdings im oberen Teil beschädigten Druckstock stammt, Ähnlichkeit mit holländischen Aufdrucken. Das abgebildete Posthorn und die Aufschrift bezeugen die Verwendung für ungeripptes Briefpapier besserer Qualität. Der Vergleich mit einem äußerst ähnlichen Riesaufdruck einer Papiermühle der holländischen Firma Van Gelder lässt vermuten, dass es sich bei dem im oberen Teil fehlenden Stück um den holländischen Freiheitslöwen mit Schwert und Pfeilbündel in den Klauen handelte. Die Ähnlichkeit legt den Gedanken nahe, dass der der Papiermühle Fischlaken zugeschriebene Druckstock holländischen Ursprungs ist. (Schlieder 1988, S. 162/163)
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 4276 Motiv ähnlich zu RA 1971/Bl 109$4rela
 5100 !954480481!
 5101 !963257161!
@@ -1758,9 +1758,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 960259481
+5593 !960259481!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -1791,7 +1791,7 @@
 4062 207 x 134 mm$b207$h134$4bld
 4105 !1257829130!
 4201 Wasserzeichen
-5100 !41164636!
+5100 !041164636!
 5320 !1043001824!
 5590 [Objektgattung]
 5590 !042115752!
@@ -1799,9 +1799,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40536653
+5593 !040536653!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -1842,9 +1842,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 04244876X
+5593 !04244876X!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -1874,7 +1874,7 @@
 4062 234 x 203 mm$b234$h203$4bld
 4062 290 x 242 mm$b290$h242$4drck
 4105 !1257829130!
-5100 !41776305!
+5100 !041776305!
 5101 !963257161!
 5590 [Objektgattung]
 5590 !042115752!
@@ -1882,9 +1882,9 @@
 5591 !40481662!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 1152976672
+5593 !1152976672!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -1914,7 +1914,7 @@
 4062 235 x 203 mm$b235$h203$4bld
 4062 287 x 241 mm$b287$h241$4drck
 4105 !1257829130!
-5100 !41776305!
+5100 !041776305!
 5101 !963257161!
 5590 [Objektgattung]
 5590 !042115752!
@@ -1922,9 +1922,9 @@
 5591 !40481662!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 1152976672
+5593 !1152976672!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -1965,9 +1965,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40486346
+5593 !040486346!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -2006,9 +2006,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 1043862811
+5593 !1043862811!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -2037,16 +2037,16 @@
 4062 237 x 142 mm$b237$h142$4bld
 4105 !1257829130!
 4201 Wasserzeichen
-5100 !41126750!
+5100 !041126750!
 5590 [Objektgattung]
 5590 !042115752!
 5591 [Technik]
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 1043862811
+5593 !1043862811!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -2075,16 +2075,16 @@
 4062 300 x 204 mm$b300$h204$4bltt
 4062 221 x 88 mm$b221$h88$4bld
 4105 !1257829130!
-5100 !41126750!
+5100 !041126750!
 5590 [Objektgattung]
 5590 !042115752!
 5591 [Technik]
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 1043862811
+5593 !1043862811!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -2113,9 +2113,9 @@
 4062 145 x 142 mm$b145$h142$4bld
 4105 !1257829130!
 4201 Der letztgenannte Riesaufdruck kennzeichnete das sogenannte "Schiffspostpapier", das von verschiedenen Papiermühlen im 18. Jahrhundert erzeugt wurde, so von Johann Friedrich Quinat, der von 1743 an in der Unterfichtenmühle in der Burggrafschaft Ansbach war; auch von Wolfgang Mayer, der 1761 die Papiermühle in Unterhimmel bei Steyr erwarb. (Thiel 1940, S. 109)
-4276 576669792$4lita
-4276 576669792$4abba
-5100 !41164636!
+4276 !576669792!$4lita
+4276 !576669792!$4abba
+5100 !041164636!
 5590 [Objektgattung]
 5590 !042115752!
 5591 [Technik]
@@ -2124,7 +2124,7 @@
 5592 !041507266!
 5592 !965620964!
 5593 [Entstehungsort]
-5593 1043862811
+5593 !1043862811!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -2162,7 +2162,7 @@
 5592 !041507266!
 5592 !965620964!
 5593 [Entstehungsort]
-5593 1043862811
+5593 !1043862811!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -2191,16 +2191,16 @@
 4062 333 x 215 mm$b333$h215$4bld
 4105 !1257829130!
 4201 Wasserzeichen
-5100 !41144368!
+5100 !041144368!
 5590 [Objektgattung]
 5590 !042115752!
 5591 [Technik]
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 42440718
+5593 !042440718!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -2232,8 +2232,8 @@
 4062 227 x 168 mm$b227$h168$4drck
 4105 !1257829130!
 4201 Die erhaltenen Riesaufdrucke von Heubsch zeigen das Wappen der Reichsgrafen von Giech, Besitzer der Herrschaft Thurnau, in deren Gebiet die Papiermühle lag. Die Druckplatten, von denen dieser und die beiden folgenden Nachdrucke stammen, befinden sich im Bestand des Deutschen Buch- und schriftmuseums in Leipzig. Von dem hier abgebildeten Riesaufdruck für "Correnspondenz-Papier" ist auch ein Original vorhanden. (Schlieder 1988, S. 124/125)
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 4276 Motiv identisch zu RA 1971/Bl 302 und RA 1980/Bl 95$4rela
 5100 !954480481!
 5590 [Objektgattung]
@@ -2242,9 +2242,9 @@
 5591 !04033760X!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 1037327063
+5593 !1037327063!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -2284,9 +2284,9 @@
 5591 !04033760X!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 1037327063
+5593 !1037327063!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -2318,9 +2318,9 @@
 4105 !1257829130!
 4201 Der auf einem Drachen stehende Knabe mit Reichsapfel ist Teil des Wappens der Adelsfamilie von Kiesewetter, zu deren Gerichtsherrschaft die Papiermühle gehörte. Außerdem gibt der Riesaufdruck Papiersorte, Ort und Namen des Papiermachers an. In einem Schild am Fuß des Blattkranzes finden sich die Initialen Schottlers in der damals üblichen Abkürzung (Gottfried Schottler) mit der Viererhandelsmarke, die in dieser Gestalt auch als Wasserzeichen erscheint. (Schlieder 1988, S. 90/91)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
-5100 !42043026!
+4276 !891000038!$4lita
+4276 !891000038!$4abba
+5100 !042043026!
 5320 !1042976341!
 5590 [Objektgattung]
 5590 !042115752!
@@ -2328,9 +2328,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 966638492
+5593 !966638492!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -2363,10 +2363,10 @@
 4105 !1257829130!
 4201 Der Fichtenbaum erscheint wohl zum ersten Mal in den Wasserzeichen der in der Nähe gelegenen Oberfichtenmühle und wude von der später gegründeten Unterfichtenmühle übernommen. Der Riesaufdruck, der für ein mittleres Schreibpapier verwendet wurde, bildet neben dem Sortennamen und den Initialen des Papiermachers die im Wasserzeichen enthaltene Fichte ab. Wie bei der Papiermühle Unterkochen finden wir auch hier die mit dem Buchstaben "R" belegten Schilde im Blattkranz. Der doppelte Abdruck weist eventuell auf eine bessere Papiersorte hin. (Schlieder 1988, S. 132/133)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5100 !948817267!
-5101 !41126750!
+5101 !041126750!
 5102 !041796012!
 5103 !961559934!
 5320 !1043002790!
@@ -2379,9 +2379,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40536653
+5593 !040536653!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -2413,9 +2413,9 @@
 4105 !1257829130!
 4201 Der Basler Drucker und Verleger Thurneysen bezog bereits seit 1782 Druckpapier aus Roppenzweiler. Als der Papiermacher auf dieser Papiermühle Johann Jakob Oehl das von Thurneysen geliehende Darlehen nicht zurückzahlen konnte, übernahm dieser die Betriebsstätte. Der Aufdruck bildet neben den Initialen des Besitzers mit Ankermarke und der Bezeichnung der Papiersorte den auch im Wasserzeichen enthaltenen Fichtenbaum ab. (Schlieder 1988, S. 154/155)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
-5100 !41126750!
+4276 !891000038!$4lita
+4276 !891000038!$4abba
+5100 !041126750!
 5320 !1043002790!
 5590 [Objektgattung]
 5590 !042115752!
@@ -2423,9 +2423,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 104487578X
+5593 !104487578X!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -2457,8 +2457,8 @@
 4062 336 x 203 mm$b336$h203$4bld
 4105 !1257829130!
 4201 Dieser Riesaufdruck stellt insofern eine Ausnahme dar, als er zur Bezeichnung von Druckpapier diente (Relation = Bericht, Zeitung). Er bildet den mit dem Königsmonogramm belegten preußischen Adler ab und gibt, neben der Papiersorte und dem abgekürzten Namen des Papiermühlpächters, auch das Gewicht des Rieses (11 Pfund) an. (Schlieder 1988. S. 136/137)
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5100 !950119717!
 5101 !945895291!
 5102 !041658019!
@@ -2468,9 +2468,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 1046508482
+5593 !1046508482!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -2504,8 +2504,8 @@
 4201 Nach Kauf der Papiermühle am 1. Mai 1834 verwendete Sutter die noch vorrätigen Riesaufdruckbogen seines Vorgängers Kolb weiter. Das beweist der Schriftzug "Kolb" im Wasserzeichen des Bogens dieses hier abgebildeten Riesaufdrucks sowie der mit Sutters Namen überklebte Namen seines Vorgängers. Kolb hatte diese Riesaufdrucke, die der Bezeichnung von Velinpapier dienten (Papier ohne Markierung der das Sieb in der Schöpfform bildenden Rippen), von einem Steindrucker anfertigen lassen. Der stilisierte Bischofsstab aus dem Wappen von Basel auf dem Schild und die Basilisken als Schildhalter deuten auf Kolbs Heimatstadt Basel hin, deren Papiermühlen für ihre besonders gute Papierqualität bekannt waren. (Schlieder 1988, S. 144/145)
 4201 Wasserzeichen
 4201 2 Dubletten
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 4276 Motiv identisch zu RA 1971/Bl 113-1 und RA 1971/Bl 113-2$4rela
 5100 !951722425!
 5320 !1043027998!
@@ -2515,9 +2515,9 @@
 5591 !40360423!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 40532003
+5593 !040532003!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -2550,9 +2550,9 @@
 4201 Auch Sutter stellte, wie sein Vorgänger Kolb, die Papiersorte "Fein Löwen" her, allerdings jetzt ungerippt als Velinpapier, und verwendete auf dem entsprechenden Riesaufdruck das gleiche Motiv. Wie der Vermerk auf dem Aufdruck zeigt, ließ er die Bogen in der Lithografischen Anstalt von Hasler & Co in Basel drucken. (Schlieder 1988, S. 146/147)
 4201 Wasserzeichen
 4201 3 Dubletten
-4276 891000038$4lita
-4276 891000038$4abba
-5100 !41144368!
+4276 !891000038!$4lita
+4276 !891000038!$4abba
+5100 !041144368!
 5320 !1043028153!
 5320 !1043027556!
 5320 !1043027637!
@@ -2566,9 +2566,9 @@
 5591 !40360423!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 40046176
+5593 !040046176!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -2601,9 +2601,9 @@
 4201 Unter den Basler Kaufleuten Kolb und Eckenstein entwickelte sich die Papiermühle Höfen zum bedeutendsten Betrieb des Gewerbes in Baden. Die gekreuzten Kolben im Schild sind vermutlich als redendes Zeichen des Besitzernamens Kolb aufzufassen. Die Schildhalterlöwen bezeichnen die Papiersorte "Löwen-Papier". Ihre Darstellung entspricht dem Wort "Löwen" in doppellinigen Antiquabuchstaben im Wasserzeichen des Papiers. (Schlieder 1988, S. 140/141)
 4201 Wasserzeichen
 4201 1 Dublette
-4276 891000038$4lita
-4276 891000038$4abba
-5100 !41144368!
+4276 !891000038!$4lita
+4276 !891000038!$4abba
+5100 !041144368!
 5101 !041796012!
 5102 !041658019!
 5320 !1043027998!
@@ -2619,9 +2619,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 40532003
+5593 !040532003!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -2652,7 +2652,7 @@
 4105 !1257829130!
 4201 Wasserzeichen
 4201 Motiv identisch zu RA 1974/Bl 315
-5100 !41144368!
+5100 !041144368!
 5320 !1043027998!
 5320 !1043027556!
 5320 !1043027637!
@@ -2666,9 +2666,9 @@
 5591 !40481662!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 40532003
+5593 !040532003!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -2701,8 +2701,8 @@
 4201 Eine weitere von Sutter hergestellte Sorte Velinpapier trägt den Baselstab im Wasserzeichen. Mit dieser Nachbildung eines Basler Wasserzeichens sucht er, wie schon sein Vorgänger Kolb, den guten Ruf der Erzeugnisse der Basler Papiermühlen zu nutzen. Entsprechend zeigt der ebenfalls in der Lithografischen Anstalt von Hasler & Co in Basel gedruckte Riesaufdruck im von Merkur gehaltenen Schild den Baselstab und darunter den Namen der Papiersorte "Fein Staab". (Schlieder 1988, S. 148/149)
 4201 Wasserzeichen
 4201 1 Dublette
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5320 !1042953112!
 5320 !1043028153!
 5590 [Objektgattung]
@@ -2711,14 +2711,14 @@
 5591 !40360423!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 40046176
+5593 !040046176!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
 6800 Provenienz]
-6800 !6800 - IDN Provenienz!
+6800 !050688081!
 6800 row.provenienz
 7100 PS.RA @ m
 7109 !!DBSM/S!! ; PS.RA 1971/Bl 117
@@ -2749,9 +2749,9 @@
 4105 !1257829130!
 4201 Der kolorierte Riesaufdruck bildet ein viermastiges Segelschiff ab, das als "Verkehrsmittel" ein Symbol für kleinformatiges Brief- oder Postpapier (sogenannte "Schiffspost") darstellt. Bei dem von diesem Riesaufdruck bezeichneten Papier handelte es sich um Zeilenpapier, aus dem auch der Bogen des Aufdrucks besteht. Wie der Riesaufdruck zeigt auch das Wasserzeichen des Bogens ein Segelschiff, allerdings von einfacherem Typ mit nur zwei Masten, sowie die Initialen des Papiermachers "IFQ" mit einer Ankermarke. (Schlieder 1988, S. 130/131)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
-5100 !41164636!
+4276 !891000038!$4lita
+4276 !891000038!$4abba
+5100 !041164636!
 5320 !1043027505!
 5320 !1043027424!
 5320 !1043027661!
@@ -2762,9 +2762,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40536653
+5593 !040536653!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -2795,10 +2795,10 @@
 4105 !1257829130!
 4201 Der Riesaufdruck auf blauem Papier zeigt das Wappen der Adelsfamilie von Asseburg, in deren Herrschaftsbereich die Papiermühle lag. Der Bogen wurde 1733 als Aktenumschlag verwendet. (Schlieder 1988, S. 104/105)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5100 !954480481!
-5101 !42779642!
+5101 !042779642!
 5102 !041658019!
 5103 !042932602!
 5320 !1043020160!
@@ -2808,9 +2808,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 42607655
+5593 !042607655!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -2842,18 +2842,18 @@
 4062 297 x 174 mm$b297$h174$4bld
 4105 !1257829130!
 4201 Der Riesaufdruck bezeichnete Papier mit einer Krone im Wasserzeichen, das im Unterschied zum Zwei- und Dreikronenpapier eine geringere Qualität aufwies. (Schlieder 1988, S. 150/151)
-4276 891000038$4lita
-4276 891000038$4abba
-5100 !41658019!
+4276 !891000038!$4lita
+4276 !891000038!$4abba
+5100 !041658019!
 5590 [Objektgattung]
 5590 !042115752!
 5591 [Technik]
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 1046576542
+5593 !1046576542!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -2887,9 +2887,9 @@
 4201 Quinat verwendete den gleichen Druckstock (vgl. S. 133) für die Bezeichnung der besseren Papierqualität "Feine Fichten", die natürlich ebenfalls einen Fichtenbaum im Wasserzeichen führt. Die wie die Initialen offensichtlich mit einem besonderen Druckstock eingesetzte Papiersorte wurde ausgewechselt. Da das Wasserzeichen des Fichtenbaums immer wieder von anderen Papiermühlen nachgeahmt wurde, suchte sich Quinat vor dieser Konkurrenz durch Abdruck seines Siegels und durch Zusatz eines entsprechenden Vermerks auf dem Riesaufdruck zu schüzen. Das Siegel zeigt in roter Farbe ein Schild mit den Initialen "IFQ" mit Helm, Helmdecken und einem wachsenden Fichtenbaum als Helmzier. Die Rippung des Schildes deutet die Papierschöpfform an. (Schlieder 1988, S. 134/135)
 4201 Wasserzeichen
 4201 1 Dublette
-4276 891000038$4lita
-4276 891000038$4abba
-5100 !41126750!
+4276 !891000038!$4lita
+4276 !891000038!$4abba
+5100 !041126750!
 5320 !1043027505!
 5320 !1043027424!
 5320 !1043027661!
@@ -2900,9 +2900,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40536653
+5593 !040536653!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -2932,18 +2932,18 @@
 4062 124 x 82 mm$b124$h82$4bld
 4105 !1257829130!
 4201 Der Löwe im Schild hält das Stammwappen der Hohenzollern in den Pranken. Diese Darstellung weist auf die Zugehörigkeit der Papiermühle zur Markgrafschaft Ansbach-Bayreuth hin, deren regierende Fürsten dem Adelsgeschlecht der Hohenzollern entstammten. Der Riesaufdruck diente zur Bezeichnung von Konzeptpapier. (Schlieder 1988, S. 112/113)
-4276 891000038$4lita
-4276 891000038$4abba
-5100 !41144368!
+4276 !891000038!$4lita
+4276 !891000038!$4abba
+5100 !041144368!
 5590 [Objektgattung]
 5590 !042115752!
 5591 [Technik]
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40725812
+5593 !040725812!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -2976,10 +2976,10 @@
 4105 !1257829130!
 4201 "Herren-Papier" war die beste Sorte des Schreib- und Briefpapiers. Diese Verwendung wird durch die Abbildung des Postreiters verdeutlicht. Wie die Jahreszahl am oberen Schriftband anzeigt, wurde der Druckstock 1693 angefertigt. Auf Grund des Wasserzeichens im Bogen ist der Aufdruck auf den Zeitraum 1711-1721 zu datieren. (Schlieder 1988, S. 84/85)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 4276 Motiv identisch zu RA 1973/Bl 20$4rela
-5100 !41776305!
+5100 !041776305!
 5101 !963257161!
 5320 !104297621X!
 5590 [Objektgattung]
@@ -2988,9 +2988,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40219720
+5593 !040219720!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -3020,8 +3020,8 @@
 4105 !1257829130!
 4201 Ein späterer Riesaufdruck der Greizer Papiermühle zeigt das Wappen der Herrschaft Reuß ältere Linien mit Brackenkopf im Herzschild und Schildhalterlöwen. Auch der Name des Papiermachers wurde nun angegeben. (Schlieder 1988, S. 82/83)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 4276 Motiv identisch zu RA 1973/Bl 25$4rela
 5100 !954480481!
 5101 !041144368!
@@ -3033,14 +3033,14 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40219720
+5593 !040219720!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
 6800 Provenienz]
-6800 !6800 - IDN Provenienz!
+6800 !050688081!
 6800 row.provenienz
 7100 PS.RA @ m
 7109 !!DBSM/S!! ; PS.RA 1971/Bl 308
@@ -3071,8 +3071,8 @@
 4105 !1257829130!
 4201 Der Aufdruck bildet das vierfeldige Wappen der Grafen Reuß ab. Es zeigt in Feld 1 und 4 den Löwen aus dem Reußschen Stammwappen und in Feld 2 und 3 den auf den Besitz der Herrschaft Kranichfeld hinweisenden Kranich. Das Wasserzeichen des Bogens zeigt die gleiche Wappendarstellung. Der Aufdruck ist teils rot teils schwarz gefärbt. Die Farbmischung könnte die Verwendung des Druckstocks für beide Farben andeuten. Die Heft- und Falzspuren im Riesaufdruck lassen die Nutzung des Bogens als Aktenrücken erkennen. (Schlieder 1988, S. 78/79)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5100 !954480481!
 5101 !949979899!
 5102 !041144368!
@@ -3083,10 +3083,10 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
-5592 !41803329!
+5592 !041784820!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40219720
+5593 !040219720!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -3117,8 +3117,8 @@
 4105 !1257829130!
 4201 Dieser Riesaufdruck stammt vom gleichen Druckstock wie der auf Seite 117 gezeigte. Allerdings lassen geringfügige Abweichungen, wie z. B. in der schematisierten Helmkrönung des Wappens, vermuten, dass es sich hier um einen früheren, weiniger abgenutzten Zustand des Druckstocks handelt. (Schlieder 1988, S. 118/119)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 4276 Motiv identisch zu RA 1981/Dok 37$4rela
 5100 !954480481!
 5101 !1023795760!
@@ -3130,9 +3130,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 50857975
+5593 !050857975!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -3164,8 +3164,8 @@
 4105 !1257829130!
 4201 Um 1640 war auch die früher gegründete untere Papiermühle in Glauchau in den Besitz der Herren von Schönburg übergegangen. So zeigt dieser Riesaufdruck ebenfalls das Wappen dieser Territorialherren mit der entsprechenden Buchstabenfolge im oberen Schriftband. In dem kleineren Schriftband darunter steht "Glauchau", der Ort der Papiermühle. Vom gleichen Druckstock sind noch vier weitere Exemplare mit gleicher Kolorierung von im Jahre 1667 geliefertem Papier vorhanden, die dem Vorgänger und Schwiegervater des Schwarz, dem Papiermachermeister Hans Curth, zuzuweisen sind. (Schlieder 1988, S. 36/37)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5100 !954480481!
 5320 !104302607X!
 5590 [Objektgattung]
@@ -3174,9 +3174,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 04244876X
+5593 !04244876X!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -3210,9 +3210,9 @@
 4105 !1257829130!
 4201 Einer der seltenen Riesaufdrucke in Kupferstichtechnik ist von der Eulenmühle bei Unadingen erhalten. Als redendes Zeichen des Mühlennamens bildet er eine Eule ab, die auf einem Wasserrad zwischen Zweigen stehend, auch als Wasserzeichen der Papiere verwendet wird. Das Monogramm des Papiermachers auf einem Mühleisen findet sich oft ebenfalls als Wasserzeichen in den anderen Bogenhälften. Wasserrad und Mühleisen zwischen Zweigen erscheinen ebenfalls, von Löwen gehalten, im Riesaufdruck. Die Aufschrift "Gut Eulen Papier" zeigt, dass die Eule auch der Papiersorte den Namen gegeben hat. (Schlieder 1988, S. 110/111)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
-5100 !41144368!
+4276 !891000038!$4lita
+4276 !891000038!$4abba
+5100 !041144368!
 5101 !041971094!
 5320 !1043027653!
 5320 !1043027696!
@@ -3223,9 +3223,9 @@
 5591 !04033760X!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 951420356
+5593 !951420356!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -3261,7 +3261,7 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -3296,14 +3296,14 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40615294
+5593 !040615294!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
 6800 Provenienz]
-6800 !6800 - IDN Provenienz!
+6800 !00038416X!
 6800 row.provenienz
 7100 PS.RA @ m
 7109 !!DBSM/S!! ; PS.RA 1972/Bl 2
@@ -3329,8 +3329,8 @@
 4062 147 x 106 mm$b147$h106$4bld
 4105 !1257829130!
 4201 Unter der Firma "Jan Honig & Co" wurden die Papiermühlen "De Wever" von 1837-1841, "De Jonge Zwaan" von 1842 bis 1855 und "Het Fortuin" in Zaandjik ab 1855 betrieben. Einer dieser Papiermühlen ist dieser Riesaufdruck zuzuweisen. Er bildet einen Bienenkorb ab, der als redendes Zeichen des Namens Honig anzusehen ist. (Schlieder 1988, S. 172/173)
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5100 !954019369!
 5590 [Objektgattung]
 5590 !042115752!
@@ -3338,9 +3338,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 975469568
+5593 !975469568!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -3370,9 +3370,9 @@
 4062 175 x 132 mm$b175$h132$4bld
 4105 !1257829130!
 4201 Unter der Firmenbezeichnung "Cornelis & Jacob Honig" wurden u. a. die Papiermühlen "Het Herderskind" von 1733-1856 und "De Veenboer" von 1738-1879 betrieben. Es ist zu vermuten, dass der Riesaufdruck von einer dieser Papiermühlen stammt. Dieser für Schreibpapier verwendete Aufdruck bildet den holländischen Freiheitslöwen ab, der in den Pranken ein Schwert und ein Bündel mit sieben Pfeilen hält. Diese symbolisieren die sieben befreiten und vereinigten holländischen Provinzen. (Schlieder 1988, S. 166/167)
-4276 891000038$4lita
-4276 891000038$4abba
-5100 !41144368!
+4276 !891000038!$4lita
+4276 !891000038!$4abba
+5100 !041144368!
 5320 !1043027963!
 5590 [Objektgattung]
 5590 !042115752!
@@ -3380,9 +3380,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 1152976672
+5593 !1152976672!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -3412,8 +3412,8 @@
 4062 185 x 162 mm$b185$h162$4bld
 4105 !1257829130!
 4201 Der ebenfalls einer Papiermühle der Firma C. & J. Honig zuzuweisende Aufdruck wurde für Postpapier guter Qualität verwendet, worauf das abgebildete Posthorn hinweist. Der Bogen selbst besteht aus grobem Papier und diente offensichtlich mit einem zweiten Bogen zur Umhüllung einer kleineren Menge des Briefpapiers. (Schlieder 1988, S. 168/169)
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5100 !963257161!
 5590 [Objektgattung]
 5590 !042115752!
@@ -3421,9 +3421,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 1152976672
+5593 !1152976672!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -3452,7 +3452,7 @@
 4062 291 x 390 mm$b291$h390$4bltt
 4062 185 x 90 mm$b185$h90$4bld
 4105 !1257829130!
-5100 !41796012!
+5100 !041796012!
 5101 !041921526!
 5102 !987413031!
 5590 [Objektgattung]
@@ -3461,7 +3461,7 @@
 5591 !41536959!
 5592 [Druck]
 5592 !041507266!
-5592 !41379632!
+5592 !041379632!
 5592 !953714144!
 7001 25-08-22 : x
 4800 !009033645!
@@ -3500,14 +3500,14 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40486346
+5593 !040486346!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
 6800 Provenienz]
-6800 !6800 - IDN Provenienz!
+6800 !00038416X!
 6800 row.provenienz
 7100 PS.RA @ m
 7109 !!DBSM/S!! ; PS.RA 1972/Bl 3
@@ -3534,10 +3534,10 @@
 4105 !1257829130!
 4201 Der Riesaufdruck, der eine mittlere Sorte Schreibpapier bezeichnete, stammt von einer Papiermühle der Familie Van der Ley. Er bildet den holländischen Freiheitslöwen im gekrönten Doppelkreis ab. Der Wahlspruch in der Umschrift "Concordia res parvae crescunt" (Durch Eintracht wird Geringes groß" stammt aus dem niederländischen Freiheitskampf gegen Spanien. (Schlieder 1988, S. 170/171)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 4276 Motiv identisch zu RA 1973/Bl 24$4rela
-5100 !41144368!
+5100 !041144368!
 5101 !041658019!
 5320 !1043027785!
 5320 !1043027394!
@@ -3549,9 +3549,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 1152976672
+5593 !1152976672!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -3582,8 +3582,8 @@
 4105 !1257829130!
 4201 In getreuer Nachahmung eines von dem Papiermacher Hieronymus Blum III in Basel verwendeten Riesaufdrucks zeigt dieses Exemplar zwei Blumen haltende Basilisken über einem Schild mit Baselstab, der sich in einem Blattoval auch im Wasserzeichen des Bogens findet. In der zweiten Bogenhälfte sind die Initialen des Papiermachers "BD" mit Viererhaken als Wasserzeichen enthalten. Dem entspricht die Abbildung des Monogramms (hier Buchstabe "D" verkehrt) im unteren Teil des Riesaufdrucks. Der Typ der Wasserzeichen deutet auf die Papiermühle Kappelrodeck und auf den Papiermacher Bernhard Dunckel hin. der Bogen wurde 1782 als Aktenumschlag für "Beilagen zur Oberkircher gut leut Rechnung" verwendet. (Schlieder 1988, S. 152/153)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5100 !951722425!
 5320 !1042953368!
 5320 !104302736X!
@@ -3594,9 +3594,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 40976432
+5593 !040976432!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -3629,8 +3629,8 @@
 4105 !1257829130!
 4201 Der Aufdruck zeigt wiederum das Wappen der zuständigen Territorialherrschaft Reuß im großen Blattoval. Das im Bogen enthaltene Wasserzeichen weist auf eine Schöpfform hin, die der Sohn Johann Tischendorf schon vor dem Tod seines Vaters Valentin T. während seiner Tätigkeit auf der Papiermühle gefertigt hat. (Schlieder 1988, S. 80/81)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5100 !954480481!
 5101 !949979899!
 5102 !041144368!
@@ -3641,9 +3641,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 40219720
+5593 !040219720!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -3674,8 +3674,8 @@
 4062 71 x 105 mm$b71$h105$4bld
 4105 !1257829130!
 4201 Der Aufdruck zeigt das Wappen der Stadt Eger im zweifachen Abdruck und stammt aus der 1540 vom Rat dieser Stadt im nahe gelegenen Dorf Stein (Skalka) errichteten Papiermühle. Im Bogen ist kein Waserzeichen zu erkennen, das eventuell hätte Datierungshilfe leisten können. Da aber der Typ des abgebildeten Stadtwappens mit zweiliniger Rautung im unteren Teil des Schildes lediglich in im Zeitraum von 1657-1659 verwendeten Papieren als Wasserzeichen vorkommt, ist der Riesaufdruck vermutlich der Wirkungszeit des Papiermühlenbesitzers Thumser zuzuweisen. (Schlieder 1988, S. 52/53)
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5100 !954480481!
 5101 !950119717!
 5102 !948817267!
@@ -3685,14 +3685,14 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 1043829776
+5593 !1043829776!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
 6800 Provenienz]
-6800 !6800 - IDN Provenienz!
+6800 !1119456932!
 6800 row.provenienz
 7100 PS.RA @ m
 7109 !!DBSM/S!! ; PS.RA 1973/Bl 13
@@ -3719,8 +3719,8 @@
 4062 253 x 166 mm$b253$h166$4bld
 4105 !1257829130!
 4201 Ein unbekannter Nachfolger von Johann Christoph Scherer auf der Papiermühle am Silberhof hat dessen Druckstock weiterverwendet. Zu diesem Zweck wurde der Name des Vorgängers auf dem fliegenden Band zu beiden Seiten des Ortsnamens entfernt und die letzten beiden Ziffern der Jahreszahl "62" an der rechten unteren Seite des Zwickauer Stadtwappens gegen die aktuelle Datierung "90" ausgetauscht. Durch die Verwendung als Aktenrücken wurde das Stück stark beschädigt. (Schlieder 1988, S. 26/27)
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5100 !954480481!
 5590 [Objektgattung]
 5590 !042115752!
@@ -3728,9 +3728,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40682625
+5593 !040682625!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -3761,8 +3761,8 @@
 4105 !1257829130!
 4201 Der gespaltene Herzschild zeigt das Weidaer Stadtwappen und den sächsischen Rautenkranz. Der Bogen wurde als Rücken für eine Akte von 1663 verwendet. (Schlieder 1988, S. 62/63)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5100 !954907833!
 5101 !954480481!
 5102 !041126750!
@@ -3772,9 +3772,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 41190122
+5593 !041190122!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -3807,8 +3807,8 @@
 4105 !1257829130!
 4201 Der Holzschnitt zeigt im zweifachen Abdruck in einer Kartusche einen dreifach geteilten Schild mit Büffelhörnern als Helmzier. Dieses Wappen der Adelsfamilie von Zedtwitz, der die Herrschaft Aš (Asch) gehörte, bezeugt die Zugehörigkeit der Papiermühle zu diesem Gebiet. Im Aufdruck sind ferner die Initialen des Gerichtsherren "AIFVZ" (= Anton Josef Franz von Zedtwitz) sowie des Papiermachers "AK" (= Adam Käppel) angegeben. Zwischen der geteilten Jahreszahl findet sich der Ortsname in etwas eigenwilliger Schreibweise: "Gryen" für Grün. Der Riesaufdruck, der durchaus auch aus einem späteren als dem aufgedruckten Jahr stammen kann, wurde für Kanzleipapier verwendet. (Schlieder 1988, S. 100/101)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5100 !954480481!
 5320 !1042981086!
 5590 [Objektgattung]
@@ -3817,9 +3817,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 1043862811
+5593 !1043862811!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -3851,9 +3851,9 @@
 4105 !1257829130!
 4201 Der im Riesaufdruck abgebildete Schild mit aufgerichtetem Löwen stellt das Wappensymbol der Vögte von Plauen dar, das auch im Stadtwappen von Auerbach enthalten ist. Von 1677 bis 1700 war Paul Hertel Besitzer der Papiermühle. Sein Bruder Christian, der bis 1689 Pächter der Papiermühle Oberschelma war, kam in diesem Jahr, vermutlich als Meister, auf die Papiermühle Auerbach. Offensichtlich wurde der Druckstock des hier vorliegenden Riesaufdrucks bei der Aufnahme von Christian Hertels Tätigkeit in Auerbach angefertigt. (Schlieder 1988, S. 98/99)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
-5100 !41144368!
+4276 !891000038!$4lita
+4276 !891000038!$4abba
+5100 !041144368!
 5101 !945895291!
 5102 !041658019!
 5590 [Objektgattung]
@@ -3862,9 +3862,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 42789745
+5593 !042789745!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -3896,10 +3896,10 @@
 4105 !1257829130!
 4201 "Herren-Papier" war die beste Sorte des Schreib- und Briefpapiers. Diese Verwendung wird durch die Abbildung des Postreiters verdeutlicht. Wie die Jahreszahl am oberen Schriftband anzeigt, wurde der Druckstock 1693 angefertigt. Auf Grund des Wasserzeichens im Bogen ist der Aufdruck auf den Zeitraum 1711-1721 zu datieren. (Schlieder 1988, S. 84/85)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 4276 Motiv identisch zu RA 1971/Bl 307$4rela
-5100 !41776305!
+5100 !041776305!
 5101 !963257161!
 5320 !104297621X!
 5590 [Objektgattung]
@@ -3908,9 +3908,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40219720
+5593 !040219720!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -3943,9 +3943,9 @@
 4201 In dem bereits von seinem Vater Johann Tischendorf verwendeten Druckstock von 1693 hat Christian Tischendorf an Stelle des Namens seines Vaters seinen Namen in das Schriftband am unteren Rand eingepaßt. Auf Grund des Wasserzeichens im Bogen müßte der Aufdruck in der Zeit zwischen 1725 und 1729 entstanden sein. (Schlieder 1988, S. 86/87)
 4201 Wasserzeichen
 4201 1 Dublette
-4276 891000038$4lita
-4276 891000038$4abba
-5100 !41776305!
+4276 !891000038!$4lita
+4276 !891000038!$4abba
+5100 !041776305!
 5101 !963257161!
 5320 !1043025499!
 5590 [Objektgattung]
@@ -3954,9 +3954,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40219720
+5593 !040219720!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -3986,17 +3986,17 @@
 4062 132 x 196 mm$b132$h196$4bld
 4105 !1257829130!
 4201 Der Riesaufdruck stammt vermutlich von der sogenannten Zunziger Mühle im St. Albantal in Basel, die 1796 von Johann Jakob Thurneysen erworben und später von seinen Söhnen Hans Rudolf und Ludwig Andreas übernommen wurde. Der Aufdruck, dessen Bogen 1837 als Briefumschlag verwendet wurde, zeigt neben dem Baselstab im Blattkranz in einem zweiten Blattkranz eine Ankermarke mit Initialen. Bei einem Vergleich mit einem sehr ähnlich gestalteten Riesaufdruck ergibt sich die Annahme, dass diese Initialen ursprünglich "HT" (= Hans Thurneysen) lauteten und der Druckstock später durch den Verlust des Querstrichs im Buchstaben "H" beschädigt wurde. (Schlieder 1988, S. 164/165)
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5590 [Objektgattung]
 5590 !042115752!
 5591 [Technik]
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40046176
+5593 !040046176!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -4025,10 +4025,10 @@
 4105 !1257829130!
 4201 Der Riesaufdruck, der eine mittlere Sorte Schreibpapier bezeichnete, stammt von einer Papiermühle der Familie Van der Ley. Er bildet den holländischen Freiheitslöwen im gekrönten Doppelkreis ab. Der Wahlspruch in der Umschrift "Concordia res parvae crescunt" (Durch Eintracht wird Geringes groß" stammt aus dem niederländischen Freiheitskampf gegen Spanien. (Schlieder 1988, S. 170/171)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 4276 Motiv identisch zu RA 1972/Bl 30$4rela
-5100 !41144368!
+5100 !041144368!
 5101 !041658019!
 5320 !1043027785!
 5320 !1043027394!
@@ -4039,9 +4039,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 1152976672
+5593 !1152976672!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -4073,8 +4073,8 @@
 4201 Ein späterer Riesaufdruck der Greizer Papiermühle zeigt das Wappen der Herrschaft Reuß ältere Linien mit Brackenkopf im Herzschild und Schildhalterlöwen. Auch der Name des Papiermachers wurde nun angegeben. (Schlieder 1988, S. 82/83)
 4201 Wasserzeichen
 4201 3 Dubletten
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5100 !954480481!
 5101 !041144368!
 5102 !949979899!
@@ -4085,9 +4085,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40219720
+5593 !040219720!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -4120,8 +4120,8 @@
 4105 !1257829130!
 4201 Der Aufdruck zeigt St. Petrus mit dem Schlüssel als Schutzpatron, auf den auch die Bezeichnung der Papiermühle im Schriftband "Zu Sant Peter in der Lunkwitz" hinweist. Das Wappen der Herrschaft Schönburg deutet die territoriale Zugehörigkeit der Papiermühle an. Im unteren Teil der kartuschenartigen Umrahmung ist eine Papiermühle mit Wasserrad abgebildet. Die Initialen des Papiermachers "AS" sind offensichtlich später in den Druckstock eingefügt, der, wie die Jahreszahl "1630" beweist, aus der Wirkungszeit von Bartel Scheinpflug (1590 bis 1638) stammt, des Vaters und Vorgängers von Adam Scheinpflug. (Schlieder 1988, S. 44/45)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5100 !957667019!
 5101 !04313372X!
 5320 !1042973490!
@@ -4131,9 +4131,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 972432515
+5593 !972432515!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -4164,8 +4164,8 @@
 4105 !1257829130!
 4201 Die Papiermühle Unterkochen war Gründung und Besitz der Fürstpropstei Ellwangen. Der Pächter Bullinger führt daher das Wappen des seinerzeit regierenden Fürstpropstes Johannes Rudolf, Grafen von Rechberg und Rothenlöwen, im Riesaufdruck. Das Wappensymbol, zwei abgewandte Löwen mit verschlungenen Schweifen, wird in den ovalen Schilden in den oberen Ecken wiederholt. Die Bedeutung der mit "R" belegten Schilde im Blattkranz ist nicht zu ermitteln. Der Buchstabe "R" im Schild tritt auch in den Wasserzeichen der Unterkochener Papiermühle auf und bezeichnete eine eigene Papiersorte ("R"-Papier) (Schlieder 1988, S. 102/103)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5100 !954480481!
 5101 !041144368!
 5102 !948817267!
@@ -4176,9 +4176,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 4821920
+5593 !004821920!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -4209,10 +4209,10 @@
 4105 !1257829130!
 4201 Für die bessere Papiersorte "Fein Löwen" verwendete Kolb im Riesaufdruck das Motiv eines Löwen vor einem Säulenstumpf mit dem badischen Wappen. Da es sich hier um eine Radierung handelt, ist eine Anfertigung dieser Riesaufdrucke auf Vorrat außerhalb der Papiermühle anzunehmen. (Schlieder 1988, S. 142/143)
 4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 4276 Motiv identisch zu RA 1971/Bl 116$4rela
-5100 !41144368!
+5100 !041144368!
 5101 !954480481!
 5102 !042932602!
 5320 !1043027998!
@@ -4222,9 +4222,9 @@
 5591 !40481662!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 40532003
+5593 !040532003!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -4259,14 +4259,14 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 04037100X
+5593 !04037100X!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
 6800 Provenienz]
-6800 !6800 - IDN Provenienz!
+6800 !1026149614!
 6800 row.provenienz
 7100 PS.RA @ m
 7109 !!DBSM/S!! ; PS.RA Kl 1910/469
@@ -4294,19 +4294,19 @@
 4062 179 x 103 mm$b179$h103$4bld
 4105 !1257829130!
 4201 Initialen: vielleicht H. R. = Hendrik Raket, P.händler i. Amsterdam (1729-1790) oder H. K. = H. Kololewyn, Anf. 19. Jh. (Churchill, S. 15, 36 und 38; Voorn, S. 396)
-5100 !41144368!
+5100 !041144368!
 5590 [Objektgattung]
 5590 !042115752!
 5591 [Technik]
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
 6800 Provenienz]
-6800 !6800 - IDN Provenienz!
+6800 !1026149614!
 6800 row.provenienz
 7100 PS.RA @ m
 7109 !!DBSM/S!! ; PS.RA Kl 1910/549
@@ -4341,12 +4341,12 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
 6800 Provenienz]
-6800 !6800 - IDN Provenienz!
+6800 !1026149614!
 6800 row.provenienz
 7100 PS.RA @ m
 7109 !!DBSM/S!! ; PS.RA Kl 1910/550
@@ -4376,7 +4376,7 @@
 4062 183 x 81 mm$b183$h81$4bld
 4105 !1257829130!
 4201 Wasserzeichen
-5100 !41711696!
+5100 !041711696!
 5320 !1043001662!
 5590 [Objektgattung]
 5590 !042115752!
@@ -4384,14 +4384,14 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 1035779005
+5593 !1035779005!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
 6800 Provenienz]
-6800 !6800 - IDN Provenienz!
+6800 !1026149614!
 6800 row.provenienz
 7100 PS.RA @ m
 7109 !!DBSM/S!! ; PS.RA Kl 1910/553
@@ -4428,14 +4428,14 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40654915
+5593 !040654915!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
 6800 Provenienz]
-6800 !6800 - IDN Provenienz!
+6800 !1026149614!
 6800 row.provenienz
 7100 PS.RA @ m
 7109 !!DBSM/S!! ; PS.RA Kl 1910/554
@@ -4462,7 +4462,7 @@
 4062 324 x 193 mm$b324$h193$4bltt
 4062 297 x 159 mm$b297$h159$4bld
 4105 !1257829130!
-5100 !41231392!
+5100 !041231392!
 5101 !954480481!
 5102 !945895291!
 5590 [Objektgattung]
@@ -4471,14 +4471,14 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 94734263X
+5593 !94734263X!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
 6800 Provenienz]
-6800 !6800 - IDN Provenienz!
+6800 !1026149614!
 6800 row.provenienz
 7100 PS.RA @ m
 7109 !!DBSM/S!! ; PS.RA Kl 1954/105
@@ -4510,8 +4510,8 @@
 4201 Nach Kauf der Papiermühle am 1. Mai 1834 verwendete Sutter die noch vorrätigen Riesaufdruckbogen seines Vorgängers Kolb weiter. Das beweist der Schriftzug "Kolb" im Wasserzeichen des Bogens dieses hier abgebildeten Riesaufdrucks sowie der mit Sutters Namen überklebte Namen seines Vorgängers. Kolb hatte diese Riesaufdrucke, die der Bezeichnung von Velinpapier dienten (Papier ohne Markierung der das Sieb in der Schöpfform bildenden Rippen), von einem Steindrucker anfertigen lassen. Der stilisierte Bischofsstab aus dem Wappen von Basel auf dem Schild und die Basilisken als Schildhalter deuten auf Kolbs Heimatstadt Basel hin, deren Papiermühlen für ihre besonders gute Papierqualität bekannt waren. (Schlieder 1988, S. 144/145)
 4201 Wasserzeichen
 4201 2 Dubletten
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 4276 Motiv identisch zu RA 1971/Bl 113 und RA 1971/Bl 113-2$4rela
 5100 !951722425!
 5320 !1043027998!
@@ -4521,9 +4521,9 @@
 5591 !40360423!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 40532003
+5593 !040532003!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -4556,8 +4556,8 @@
 4201 Nach Kauf der Papiermühle am 1. Mai 1834 verwendete Sutter die noch vorrätigen Riesaufdruckbogen seines Vorgängers Kolb weiter. Das beweist der Schriftzug "Kolb" im Wasserzeichen des Bogens dieses hier abgebildeten Riesaufdrucks sowie der mit Sutters Namen überklebte Namen seines Vorgängers. Kolb hatte diese Riesaufdrucke, die der Bezeichnung von Velinpapier dienten (Papier ohne Markierung der das Sieb in der Schöpfform bildenden Rippen), von einem Steindrucker anfertigen lassen. Der stilisierte Bischofsstab aus dem Wappen von Basel auf dem Schild und die Basilisken als Schildhalter deuten auf Kolbs Heimatstadt Basel hin, deren Papiermühlen für ihre besonders gute Papierqualität bekannt waren. (Schlieder 1988, S. 144/145)
 4201 Wasserzeichen
 4201 2 Dubletten
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 4276 Motiv identisch zu RA 1971/Bl 113 und RA 1971/Bl 113-1$4rela
 5100 !951722425!
 5320 !1043027998!
@@ -4567,9 +4567,9 @@
 5591 !40360423!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 40532003
+5593 !040532003!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -4597,14 +4597,14 @@
 4062 492 x 630 mm$b492$h630$4bltt
 4062 145 x 136 mm$b145$h136$4bld
 4105 !1257829130!
-5100 !42567297!
+5100 !042567297!
 5590 [Objektgattung]
 5590 !042115752!
 5591 [Technik]
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -4633,7 +4633,7 @@
 4062 224 x 167 mm$b224$h167$4bld
 4105 !1257829130!
 4201 Riesaufdruck Holland, Koog a. d. Zaan Buchhändler P. Out (1830-1911), Papierverkauf seit 1890 (Kartei)
-5100 !41126750!
+5100 !041126750!
 5101 !041218787!
 5590 [Objektgattung]
 5590 !042115752!
@@ -4641,9 +4641,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 975469568
+5593 !975469568!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -4672,10 +4672,10 @@
 4062 218 x 163 mm$b218$h163$4bld
 4105 !1257829130!
 4201 Die heraldische Lilie im gekrönten Schild dient hier, wie allgemein üblich, zur Bezeichnung von Schreibpapier. Der Riesaufdruck der Papierhandlung P. Out ist auf einem großformatigen Bogen festen Packpapiers angebracht und wurde als Umschlag für das Papierpaket hergestellt. Das freie Feld im unteren Teil des Aufdrucks war ursprünglich für die Anbringung eines besonderen Abdrucks mit dem Namen der Papiersorte oder des Herstellers gedacht. (Schlieder 1988, S. 176/177)
-4276 891000038$4lita
-4276 891000038$4abba
+4276 !891000038!$4lita
+4276 !891000038!$4abba
 5100 !954480481!
-5101 !41676653!
+5101 !041676653!
 5102 !041658019!
 5590 [Objektgattung]
 5590 !042115752!
@@ -4683,9 +4683,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 975469568
+5593 !975469568!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -4714,9 +4714,9 @@
 4062 200 x 182 mm$b200$h182$4bld
 4105 !1257829130!
 4201 Dieser Riesaufdruck für Schreibpapier erster Qualität wurde von der Papierhandlung P. Out verwendet. Das Motiv zeigt die in Holland sehr verbreitete "Pro Patria"-Darstellung, die auch das Wasserzeichen kennzeichnet. Dieses Emblem war das offizielle Wappen der Republik der Vereinigten Niederlande. Es zeigt den holländischen Löwen und eine als Pallas Athene gekleidete Frauengestalt, die "Hollandia", mit einem Hut auf einer Lanze, dem Symbol der Souveränität. Der großformatige Bogen aus grobem Packpapier diente zur Riesverpackung. (Schlieder 1988, S. 174/175)
-4276 891000038$4lita
-4276 891000038$4abba
-5100 !41144368!
+4276 !891000038!$4lita
+4276 !891000038!$4abba
+5100 !041144368!
 5101 !041136179!
 5590 [Objektgattung]
 5590 !042115752!
@@ -4724,9 +4724,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 975469568
+5593 !975469568!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -4763,9 +4763,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 975469568
+5593 !975469568!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -4794,7 +4794,7 @@
 4062 212 x 112 mm$b212$h112$4bld
 4105 !1257829130!
 4201 Holland, Koog a. d. Zaan / Buchhändler P. Out (1830-1911), Papierverkauf seit 1890 (Kartei)
-5100 !41711696!
+5100 !041711696!
 5101 !041658019!
 5590 [Objektgattung]
 5590 !042115752!
@@ -4802,9 +4802,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 975469568
+5593 !975469568!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -4833,16 +4833,16 @@
 4062 207 x 172 mm$b207$h172$4bld
 4105 !1257829130!
 4201 Holland, Koog a. d. Zaan / Buchhändler P. Out (1830-1911), Papierverkauf seit 1890 (Kartei)
-5100 !41144368!
+5100 !041144368!
 5590 [Objektgattung]
 5590 !042115752!
 5591 [Technik]
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 975469568
+5593 !975469568!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -4870,7 +4870,7 @@
 4062 530 x 675 mm$b530$h675$4bltt
 4062 84 x 83 mm$b84$h83$4bld
 4105 !1257829130!
-5100 !41144368!
+5100 !041144368!
 5101 !041658019!
 5590 [Objektgattung]
 5590 !042115752!
@@ -4878,7 +4878,7 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -4914,9 +4914,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 975469568
+5593 !975469568!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -4954,9 +4954,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 975469568
+5593 !975469568!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -4993,9 +4993,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 975469568
+5593 !975469568!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -5024,7 +5024,7 @@
 4062 235 x 167 mm$b235$h167$4bld
 4105 !1257829130!
 4201 Holland, Koog a. d. Zaan / Jan Honig & Sohn / Buchhändler P. Out (1830-1911), Papierverkauf seit 1890 (Kartei)
-5100 !41796012!
+5100 !041796012!
 5101 !963257161!
 5590 [Objektgattung]
 5590 !042115752!
@@ -5032,9 +5032,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 975469568
+5593 !975469568!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -5063,7 +5063,7 @@
 4062 222 x 166 mm$b222$h166$4bld
 4105 !1257829130!
 4201 Holland, Koog a. d. Zaan / Buchhändler P. Out (1830-1911), Papierverkauf seit 1890 (Kartei)
-5100 !41164636!
+5100 !041164636!
 5101 !954480481!
 5590 [Objektgattung]
 5590 !042115752!
@@ -5071,9 +5071,9 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 975469568
+5593 !975469568!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -5102,16 +5102,16 @@
 4062 191 x 111 mm$b191$h111$4bld
 4105 !1257829130!
 4201 Holland, Koog a. d. Zaan / Buchhändler P. Out (1830-1911), Papierverkauf seit 1890 (Kartei)
-5100 !41971094!
+5100 !041971094!
 5590 [Objektgattung]
 5590 !042115752!
 5591 [Technik]
 5591 !40481662!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 975469568
+5593 !975469568!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -5140,16 +5140,16 @@
 4062 200 x 126 mm$b200$h126$4bld
 4105 !1257829130!
 4201 Holland, Koog a. d. Zaan / Buchhändler P. Out (1830-1911), Papierverkauf seit 1890 (Kartei)
-5100 !41144368!
+5100 !041144368!
 5590 [Objektgattung]
 5590 !042115752!
 5591 [Technik]
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 975469568
+5593 !975469568!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
@@ -5174,20 +5174,20 @@
 4062 625 x 550 mm$b625$h550$4bltt
 4062 287 x 250 mm$b287$h250$4bld
 4105 !1257829130!
-5100 !41676653!
-5101 !41231392!
+5100 !041676653!
+5101 !041231392!
 5590 [Objektgattung]
 5590 !042115752!
 5591 [Technik]
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
 6800 Provenienz]
-6800 !6800 - IDN Provenienz!
+6800 !1119456932!
 6800 row.provenienz
 7100 PS.RA @ m
 7109 !!DBSM/S!! ; PS.RA 1973/Bl 28

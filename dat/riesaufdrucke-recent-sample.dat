@@ -4,40 +4,154 @@
 0502 ohne Hilfsmittel zu benutzen$bn
 0503 Blatt$bnb
 0600 yy
-1100 1850$n[zwischen 1850 und 1900]
-1110 2. Hälfte 19. Jahrhundert*1850-1900$a1850$b1900$4vzta
-1130 TB-papier
+1100 1600$n[zwischen 1600 und 1616]
+1110 1600-1616 (Wirkungszeit des Papiermachers)*1600-1616$a1600$b1616$4vzta
+1130 TB-papier-hr
 1131 !041454197!
 1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
 1500 /1zxx
-1700 /1XA-NL
-4000 Riesaufdruck eines unbekannten Papiermachers, Motiv: Pro-Patria-Darstellung (sitzende Hollandia, von Zaun umhegt und von bewehrtem Löwen beschützt) in viereckigem Rahmen, überhöht mit gekröntem Amsterdamer Wappen und in Blütenranken eingefasst
+1700 /1XA-DXDE
+3000 !105175738X!$BPapiermacher$4ppm
+3100 !1037463137!$BGeistiger Schöpfer$4cre
+4000 Riesaufdruck des Papiermachers Ciriacus Kleber, Motiv: drei im Kreis miteinander verbundene Wappen, belegt mit Jungfrauenadler, Nürnberger Wappen, Schwan beseitet mit CK / Weidenmühle
 4019 Druckgrafik$Bobja
-4019 Propatria Super Fine Fine P. Out Koog a. d. Zaan$Bdevi
-4046 Koog aan de Zaan : [Nicht ermittelbar]
+4019 CK$Bdevi
+4046 Nürnberg : Weidenmühle
 4060 1 ungezähltes Blatt
-4062 463 x 644 mm$b463$h644$4bltt
-4062 200 x 182 mm$b200$h182$4bld
+4062 96 x 93 mm$b96$h93$4bltt
+4062 75 x 75 mm$b75$h75$4bld
 4105 !1257829130!
-4201 Dieser Riesaufdruck für Schreibpapier erster Qualität wurde von der Papierhandlung P. Out verwendet. Das Motiv zeigt die in Holland sehr verbreitete "Pro Patria"-Darstellung, die auch das Wasserzeichen kennzeichnet. Dieses Emblem war das offizielle Wappen der Republik der Vereinigten Niederlande. Es zeigt den holländischen Löwen und eine als Pallas Athene gekleidete Frauengestalt, die "Hollandia", mit einem Hut auf einer Lanze, dem Symbol der Souveränität. Der großformatige Bogen aus grobem Packpapier diente zur Riesverpackung. (Schlieder 1988, S. 174/175)
-4276 891000038$4lita
-4276 891000038$4abba
-5100 !41144368!
-5101 !041136179!
+4201 Der Aufdruck der auf Nürnberger Stadtgebiet gelegenen Papiermühle zeigt zwei der Reichsstadt Nürnberg zugeordneten Wappen: Schild mit Jungfernadler und gespaltener Schild mit Reichsadler und Schrägbalken. Im unteren Schild, der von den Initialen des Papiermachers beseitet ist, ist ein Schwan oder Pelikan abgebildet. (Schlieder 1988, S. 32/33)
+4276 !891000038!$4lita
+4276 !891000038!$4abba
+5100 !954480481!
+5101 !950119717!
+5102 !94362990X!
 5590 [Objektgattung]
 5590 !042115752!
 5591 [Technik]
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41784820!
+5592 !041784820!
 5593 [Entstehungsort]
-5593 975469568
+5593 !040427420!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
 7100 PS.RA @ m
-7109 !!DBSM/S!! ; PS.RA 1972/Bl 14
+7109 !!DBSM/S!! ; PS.RA 1971/Bl 217
+	
+0500 Pa
+0501 unbewegtes Bild$bsti
+0501 text$btxt
+0502 ohne Hilfsmittel zu benutzen$bn
+0503 Blatt$bnb
+0600 yy
+1130 TB-papier
+1131 !041454197!
+1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
+1500 /1zxx
+1700 /1XA-DXDE
+4000 Riesaufdruck eines unbekannten Papiermachers, Motiv: eingerahmte Stadtansicht beseitet von Wappen mit gekröntem Doppeladler und Wappen der Stadt Ravensburg
+4019 Druckgrafik$Bobja
+4019 Des Heil- Röm-Reichs Statt Raven Bürg$Bdevi
+4046 Ravensburg : [Nicht ermittelbar]
+4060 1 ungezähltes Blatt
+4062 175 x 348 mm$b175$h348$4bltt
+4062 169 x 342 mm$b169$h342$4bld
+4105 !1257829130!
+5100 !041266978!
+5101 !954901096!
+5102 !041962494!
+5590 [Objektgattung]
+5590 !042115752!
+5591 [Technik]
+5591 !40257363!
+5592 [Druck]
+5592 !041507266!
+5592 !041803329!
+5593 [Entstehungsort]
+5593 !040486346!
+7001 25-08-22 : x
+4800 !009033645!
+6710 !1032059397!
+7100 PS.RA @ m
+7109 !!DBSM/S!! ; PS.RA 1971/Bl 211
+8034 vermutlich Nachdruck
+	
+0500 Pa
+0501 unbewegtes Bild$bsti
+0501 text$btxt
+0502 ohne Hilfsmittel zu benutzen$bn
+0503 Blatt$bnb
+0600 yy
+1100 1801$n[zwischen 1801 und 1900]
+1110 19. Jahrhundert*1801-1900$a1801$b1900$4vzta
+1130 TB-papier
+1131 !041454197!
+1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
+1500 /1zxx
+1700 /1XA-NL
+4000 Riesaufdruck eines unbekannten Papiermachers, Motiv: im Blattkreis Wappenschild mit Muschel belegt
+4019 Druckgrafik$Bobja
+4019 Holland Super Fine J. H. & Co.$Bdevi
+4046 [Nicht ermittelbar] : [Nicht ermittelbar]
+4060 1 ungezähltes Blatt
+4062 492 x 630 mm$b492$h630$4bltt
+4062 145 x 136 mm$b145$h136$4bld
+4105 !1257829130!
+5100 !042567297!
+5590 [Objektgattung]
+5590 !042115752!
+5591 [Technik]
+5591 !40257363!
+5592 [Druck]
+5592 !041507266!
+5592 !041784820!
+7001 25-08-22 : x
+4800 !009033645!
+6710 !1032059397!
+7100 PS.RA @ m
+7109 !!DBSM/S!! ; PS.RA 1972/Bl 11
+	
+0500 Pa
+0501 unbewegtes Bild$bsti
+0501 text$btxt
+0502 ohne Hilfsmittel zu benutzen$bn
+0503 Blatt$bnb
+0600 yy
+1100 1850$n[zwischen 1850 und 1972]
+1110 1850-1972*1850-1972$a1850$b1972$4vzta
+1130 TB-papier
+1131 !041454197!
+1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
+1500 /1zxx
+1700 /1XA-NL
+4000 Riesaufdruck eines unbekannten Papiermachers, Motiv: im gekrönten von Blattranken umrahmten Kreis Wappenschild belegt mit holländischem Löwen
+4019 Druckgrafik$Bobja
+4019 Concordia res parvae crescunt I P. Out Koog a. d. Zaan$Bdevi
+4046 Koog aan de Zaan : [Nicht ermittelbar]
+4060 1 ungezähltes Blatt
+4062 470 x 625 mm$b470$h625$4bltt
+4062 207 x 172 mm$b207$h172$4bld
+4105 !1257829130!
+4201 Holland, Koog a. d. Zaan / Buchhändler P. Out (1830-1911), Papierverkauf seit 1890 (Kartei)
+5100 !041144368!
+5590 [Objektgattung]
+5590 !042115752!
+5591 [Technik]
+5591 !40257363!
+5592 [Druck]
+5592 !041507266!
+5592 !041784820!
+5593 [Entstehungsort]
+5593 !975469568!
+7001 25-08-22 : x
+4800 !009033645!
+6710 !1032059397!
+7100 PS.RA @ m
+7109 !!DBSM/S!! ; PS.RA 1972/Bl 18
 	
 0500 Pa
 0501 unbewegtes Bild$bsti
@@ -66,137 +180,13 @@
 5591 !40257363!
 5592 [Druck]
 5592 !041507266!
-5592 !41803329!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 40486346
+5593 !040486346!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
 7100 PS.RA @ m
 7109 !!DBSM/S!! ; PS.RA 1972/Bl 6
 8034 vermutlich Nachdruck
-	
-0500 Pa
-0501 unbewegtes Bild$bsti
-0501 text$btxt
-0502 ohne Hilfsmittel zu benutzen$bn
-0503 Blatt$bnb
-0600 yy
-1100 1638$n[zwischen 1638 und 1670]
-1110 1638-1670 (Wirkungszeit des Papiermachers)*1638-1670$a1638$b1670$4vzta
-1130 TB-papier-hr
-1131 !041454197!
-1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
-1500 /1zxx
-1700 /1XA-DXDE
-3000 !1259903850!$BPapiermacher$4ppm
-3100 !1031681973!$BGeistiger Schöpfer$4cre
-4000 Riesaufdruck des Papiermachers Adam Scheinpflug, Motiv: in kartuscheartiger Umrahmung Figur des St. Peter, Schlüssel und Schönburger Wappenschild haltend, darunter liegend ein Mühlengebäude / Niedermühle
-4019 Druckgrafik$Bobja
-4019 Zu Sant Peter in der Lvnkwitz A S 1630$Bdevi
-4046 Niederlungwitz : Niedermühle
-4060 1 ungezähltes Blatt
-4062 325 x 390 mm$b325$h390$4bltt
-4062 230 x 175 mm$b230$h175$4bld
-4105 !1257829130!
-4201 Der Aufdruck zeigt St. Petrus mit dem Schlüssel als Schutzpatron, auf den auch die Bezeichnung der Papiermühle im Schriftband "Zu Sant Peter in der Lunkwitz" hinweist. Das Wappen der Herrschaft Schönburg deutet die territoriale Zugehörigkeit der Papiermühle an. Im unteren Teil der kartuschenartigen Umrahmung ist eine Papiermühle mit Wasserrad abgebildet. Die Initialen des Papiermachers "AS" sind offensichtlich später in den Druckstock eingefügt, der, wie die Jahreszahl "1630" beweist, aus der Wirkungszeit von Bartel Scheinpflug (1590 bis 1638) stammt, des Vaters und Vorgängers von Adam Scheinpflug. (Schlieder 1988, S. 44/45)
-4201 Wasserzeichen
-4276 891000038$4lita
-4276 891000038$4abba
-5100 !957667019!
-5101 !04313372X!
-5320 !1042973490!
-5590 [Objektgattung]
-5590 !042115752!
-5591 [Technik]
-5591 !40257363!
-5592 [Druck]
-5592 !041507266!
-5592 !41803329!
-5593 [Entstehungsort]
-5593 972432515
-7001 25-08-22 : x
-4800 !009033645!
-6710 !1032059397!
-7100 PS.RA @ m
-7109 !!DBSM/S!! ; PS.RA 1973/Bl 27
-8034 mit Schablonen angefertigte Kolorierung in Braun, Gelb, Rot und Grün
-	
-0500 Pa
-0501 unbewegtes Bild$bsti
-0501 text$btxt
-0502 ohne Hilfsmittel zu benutzen$bn
-0503 Blatt$bnb
-0600 yy
-1100 1850$n[zwischen 1850 und 1999]
-1110 2. Hälfte 19. Jahrhundert*1850-1999$a1850$b1999$4vzta
-1130 TB-papier
-1131 !041454197!
-1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
-1500 /1zxx
-1700 /1XA-NL
-4000 Riesaufdruck eines unbekannten Papiermachers, Motiv: Kaufmannswappen von Blattwerk herzförmig umrahmt, mit Baum überhöht, rechts und links ein Vogel sitzend
-4019 Druckgrafik$Bobja
-4019 P. Out Koog a. d. Zaan$Bdevi
-4046 Koog aan de Zaan : [Nicht ermittelbar]
-4060 1 ungezähltes Blatt
-4062 475 x 645 mm$b475$h645$4bltt
-4062 224 x 167 mm$b224$h167$4bld
-4105 !1257829130!
-4201 Riesaufdruck Holland, Koog a. d. Zaan Buchhändler P. Out (1830-1911), Papierverkauf seit 1890 (Kartei)
-5100 !41126750!
-5101 !041218787!
-5590 [Objektgattung]
-5590 !042115752!
-5591 [Technik]
-5591 !40257363!
-5592 [Druck]
-5592 !041507266!
-5592 !41784820!
-5593 [Entstehungsort]
-5593 975469568
-7001 25-08-22 : x
-4800 !009033645!
-6710 !1032059397!
-7100 PS.RA @ m
-7109 !!DBSM/S!! ; PS.RA 1972/Bl 12
-	
-0500 Pa
-0501 unbewegtes Bild$bsti
-0501 text$btxt
-0502 ohne Hilfsmittel zu benutzen$bn
-0503 Blatt$bnb
-0600 yy
-1100 1850$n[zwischen 1850 und 1972]
-1110 1850-1972*1850-1972$a1850$b1972$4vzta
-1130 TB-papier
-1131 !041454197!
-1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
-1500 /1zxx
-1700 /1XA-NL
-4000 Riesaufdruck eines unbekannten Papiermachers, Motiv: von Blattwerk umrahmtes, geviertes Wappenschild, ein Viertel mit Schwert belegt
-4019 Druckgrafik$Bobja
-4019 Super Fine Fine P. Out Koog a. d. Zaan$Bdevi
-4046 Koog aan de Zaan : [Nicht ermittelbar]
-4060 1 ungezähltes Blatt
-4062 470 x 645 mm$b470$h645$4bltt
-4062 165 x 112 mm$b165$h112$4bld
-4105 !1257829130!
-4201 Holland, Koog a. d. Zaan / Buchhändler P. Out (1830-1911), Papierverkauf seit 1890 (Kartei)
-5100 !954480481!
-5101 !945895291!
-5590 [Objektgattung]
-5590 !042115752!
-5591 [Technik]
-5591 !40257363!
-5592 [Druck]
-5592 !041507266!
-5592 !41784820!
-5593 [Entstehungsort]
-5593 975469568
-7001 25-08-22 : x
-4800 !009033645!
-6710 !1032059397!
-7100 PS.RA @ m
-7109 !!DBSM/S!! ; PS.RA 1972/Bl 23
 	

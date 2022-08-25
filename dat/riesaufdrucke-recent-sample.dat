@@ -4,68 +4,21 @@
 0502 ohne Hilfsmittel zu benutzen$bn
 0503 Blatt$bnb
 0600 yy
-1100 1742$n[zwischen 1742 und 1767]
-1110 1742-1767 (Wirkungszeit des Papiermachers)*1742-1767$a1742$b1767$4vzta
-1130 TB-papier-hr
-1131 !041454197!
-1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
-1500 /1zxx
-1700 /1XA-DXDE
-3000 !104702926X!$BPapiermacher$4ppm
-3100 !1037232232!$BGeistiger Schöpfer$4cre
-4000 Riesaufdruck des Papiermachers Johann Friedrich Quinat, Motiv: viermastiges beflaggtes Segelschiff, darunter Ankermarke mit den Initialen IFQ / Untere Fichtenmühle
-4019 Druckgrafik$Bobja
-4019 I F Q$Bdevi
-4046 Schwabach : Untere Fichtenmühle
-4060 1 ungezähltes Blatt
-4062 274 x 376 mm$b274$h376$4bltt
-4062 205 x 113 mm$b205$h113$4bld
-4105 !1257829130!
-4201 Der kolorierte Riesaufdruck bildet ein viermastiges Segelschiff ab, das als "Verkehrsmittel" ein Symbol für kleinformatiges Brief- oder Postpapier (sogenannte "Schiffspost") darstellt. Bei dem von diesem Riesaufdruck bezeichneten Papier handelte es sich um Zeilenpapier, aus dem auch der Bogen des Aufdrucks besteht. Wie der Riesaufdruck zeigt auch das Wasserzeichen des Bogens ein Segelschiff, allerdings von einfacherem Typ mit nur zwei Masten, sowie die Initialen des Papiermachers "IFQ" mit einer Ankermarke. (Schlieder 1988, S. 130/131)
-4201 Wasserzeichen
-4276 !891000038!$4lita
-4276 !891000038!$4abba
-5100 !041164636!
-5320 !1043027505!
-5320 !1043027424!
-5320 !1043027661!
-5320 !1043001824!
-5590 [Objektgattung]
-5590 !042115752!
-5591 [Technik]
-5591 !040257363!
-5592 [Druck]
-5592 !041507266!
-5592 !041803329!
-5593 [Entstehungsort]
-5593 !040536653!
-7001 25-08-22 : x
-4800 !009033645!
-6710 !1032059397!
-7100 PS.RA @ m
-7109 !!DBSM/S!! ; PS.RA 1971/Bl 129
-8034 handschriftliche Notiz auf Vorderseite
-	
-0500 Pa
-0501 unbewegtes Bild$bsti
-0501 text$btxt
-0502 ohne Hilfsmittel zu benutzen$bn
-0503 Blatt$bnb
-0600 yy
 1130 TB-papier
 1131 !041454197!
 1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
 1500 /1zxx
 1700 /1XA-DXDE
-4000 Riesaufdruck eines unbekannten Papiermachers, Motiv: zwei stilisierte Tannenbäume
+4000 Riesaufdruck eines unbekannten Papiermachers, Motiv: gekrönter Doppeladler in Blattoval
 4019 Druckgrafik$Bobja
-4019 Fein Fichten Baum Canzlei Papir$Bdevi
-4046 Ravensburg : [Nicht ermittelbar]
+4019 Adler Papier Stifft Kempten$Bdevi
+4046 Au bei Kempten : [Nicht ermittelbar]
 4060 1 ungezähltes Blatt
-4062 186 x 239 mm$b186$h239$4bltt
-4062 174 x 221 mm$b174$h221$4bld
+4062 317 x 198 mm$b317$h198$4bltt
+4062 294 x 173 mm$b294$h173$4bld
 4105 !1257829130!
-5100 !041126750!
+5100 !954901096!
+5101 !041658019!
 5590 [Objektgattung]
 5590 !042115752!
 5591 [Technik]
@@ -74,13 +27,13 @@
 5592 !041507266!
 5592 !041803329!
 5593 [Entstehungsort]
-5593 !040486346!
+5593 !1037166140!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
 7100 PS.RA @ m
-7109 !!DBSM/S!! ; PS.RA 1971/Bl 210
-8034 vermutlich Nachdruck
+7109 !!DBSM/S!! ; PS.RA 1971/Bl 289
+8034 Beilage: Riesaufdruck-Kopie
 	
 0500 Pa
 0501 unbewegtes Bild$bsti
@@ -88,23 +41,28 @@
 0502 ohne Hilfsmittel zu benutzen$bn
 0503 Blatt$bnb
 0600 yy
-1130 TB-papier-hr
+1100 1737$n[zwischen 1737 und 1766]
+1110 1737-1766 (Wirkungszeit des Papiermachers)*1737-1766$a1737$b1766$4vzta
+1130 TB-papier
 1131 !041454197!
 1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
 1500 /1zxx
-1700 /1XA-CZ
-3000 !1259827275!$BPapiermacher$4ppm
-3100 !1043864644!$BGeistiger Schöpfer$4cre
-4000 Riesaufdruck des Papiermachers Johann Christian Adam Michel, Motiv: stilisierter Tannenbaum in Zierrahmen / Papiermühle Grün
+1700 /1XA-DXDE
+3000 !1049793870!$BPapiermacher$4ppm
+3100 !1032278617!$BGeistiger Schöpfer$4cre
+4000 Riesaufdruck des Papiermachers Johann Heinrich Runge, Motiv: gekröntes Wappenschild zwischen zwei Palmzweigen, belegt mit Zepter / Vordermühle
 4019 Druckgrafik$Bobja
-4019 ICAM Grüner Post$Bdevi
-4046 Doubrava : Papiermühle Grün
+4019 Cantzeley-Pappier Hantz Heinrich Runge Pappiermacher zu Werningeroda auf der Forder-Mühlen$Bdevi
+4046 Wernigerode-Hasserode : Vordermühle
 4060 1 ungezähltes Blatt
-4062 281 x 200 mm$b281$h200$4bltt
-4062 237 x 142 mm$b237$h142$4bld
+4062 327 x 186 mm$b327$h186$4bltt
+4062 137 x 87 mm$b137$h87$4bld
 4105 !1257829130!
-4201 Wasserzeichen
-5100 !041126750!
+4201 Der Ortsteil Hasserode wurde 1694 brandenburgisch und war später ein königlich-preußisches Amt. Daher wurde diese Hasseröder Papiermühle auch königliche Papiermühle genannt. Das im Riesaufdruck abgebildete Zepter, das im Wappen der Kurfürsten von Brandenburg als Zeichen der Erzkämmerwürde geführt wurde, weist auf die Gebietszugehörigkeit der Papiermühle hin. (Schlieder 1988, S. 114/115)
+4276 !891000038!$4lita
+4276 !891000038!$4abba
+5100 !954480481!
+5101 !041658019!
 5590 [Objektgattung]
 5590 !042115752!
 5591 [Technik]
@@ -112,104 +70,139 @@
 5592 [Druck]
 5592 !041507266!
 5592 !041803329!
+5593 [Entstehungsort]
+5593 !103226358X!
+7001 25-08-22 : x
+4800 !009033645!
+6710 !1032059397!
+7100 PS.RA @ m
+7109 !!DBSM/S!! ; PS.RA 1971/Bl 213
+8034 Aufdruck unvollständig
+	
+0500 Pa
+0501 unbewegtes Bild$bsti
+0501 text$btxt
+0502 ohne Hilfsmittel zu benutzen$bn
+0503 Blatt$bnb
+0600 yy
+1100 1759$n[zwischen 1759 und 1771]
+1110 1759-1771 (Wirkungszeit des Papiermachers)*1759-1771$a1759$b1771$4vzta
+1130 TB-papier-hr
+1131 !041454197!
+1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
+1500 /1zxx
+1700 /1XA-DXDE
+3000 !1033433187!$BPapiermacher$4ppm
+3100 !1029563772!$BGeistiger Schöpfer$4cre
+4000 Riesaufdruck des Papiermachers Friedrich Christoph Wenther, Motiv: Wappen der Stadt Mühlhausen mit Helm und Decken, Büffelhörnern und Lindenlaub als Helmzier / Papiermühle Mühlhausen bei Reiser
+4019 Druckgrafik$Bobja
+4019 Gut Mühlhäuser Adler-Pappi$Bdevi
+4046 Mühlhausen : Papiermühle Mühlhausen bei Reiser
+4060 1 ungezähltes Blatt
+4062 337 x 189 mm$b337$h189$4bltt
+4062 228 x 118 mm$b228$h118$4bld
+4105 !1257829130!
+4201 Der Reichsadler, belegt mit Mühleisen im Herzschild, im Wappenschild mit Helm, Helmdecken und mit Lindenzweigen bestückten Büffelhörnern als Helmzier, stellt das Wappen der Reichsstadt Mühlhausen dar. Durch Vergleich des Wasserzeichens im Bogen mit dem gleichen Typ des Reichsadlers, von dem auch die Sortenbezeichnung des Papiers abgeleitet ist, müsste der Aufdruck dem Papiermacher F.C. Wenther dem Jüngeren zuzuweisen sein. (Schlieder 1988, S. 122/123)
+4276 !891000038!$4lita
+4276 !891000038!$4abba
+5100 !954480481!
+5101 !987413031!
+5102 !950119717!
+5103 !956731473!
+5104 !949931888!
+5590 [Objektgattung]
+5590 !042115752!
+5591 [Technik]
+5591 !040257363!
+5592 [Druck]
+5592 !041507266!
+5592 !041784820!
+5593 [Entstehungsort]
+5593 !040404668!
+7001 25-08-22 : x
+4800 !009033645!
+6710 !1032059397!
+7100 PS.RA @ m
+7109 !!DBSM/S!! ; PS.RA 1971/Bl 310
+8034 Aufdruck unvollständig
+	
+0500 Pa
+0501 unbewegtes Bild$bsti
+0501 text$btxt
+0502 ohne Hilfsmittel zu benutzen$bn
+0503 Blatt$bnb
+0600 yy
+1100 1748$n[zwischen 1748 und 1785]
+1110 1748-1785 (Wirkungszeit des Papiermachers)*1748-1785$a1748$b1785$4vzta
+1130 TB-papier-hr
+1131 !041454197!
+1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
+1500 /1zxx
+1700 /1XA-DXDE
+3000 !125981954X!$BPapiermacher$4ppm
+3100 !1037327365!$BGeistiger Schöpfer$4cre
+4000 Riesaufdruck des Papiermachers Johann Bartholomäus Schleicher, Motiv: Wappen der Reichsgrafen von Giech / Papiermühle Heubsch
+4019 Druckgrafik$Bobja
+4019 Thurnauer feines Correspondenz Papier Johann Bartholomäus Schleicher$Bdevi
+4046 Heubsch : Papiermühle Heubsch
+4060 1 ungezähltes Blatt
+4062 351 x 220 mm$b351$h220$4bltt
+4062 222 x 167 mm$b222$h167$4bld
+4062 228 x 170 mm$b228$h170$4drck
+4105 !1257829130!
+4201 2 Dubletten
+4276 Motiv identisch zu RA 1980/Bl 94 und RA 1980/Bl 95$4rela
+5100 !954480481!
+5590 [Objektgattung]
+5590 !042115752!
+5591 [Technik]
+5591 !04033760X!
+5592 [Druck]
+5592 !041507266!
+5592 !041803329!
+5593 [Entstehungsort]
+5593 !1037327063!
+7001 25-08-22 : x
+4800 !009033645!
+6710 !1032059397!
+7100 PS.RA @ m
+7109 !!DBSM/S!! ; PS.RA 1971/Bl 302
+	
+0500 Pa
+0501 unbewegtes Bild$bsti
+0501 text$btxt
+0502 ohne Hilfsmittel zu benutzen$bn
+0503 Blatt$bnb
+0600 yy
+1100 1750$n[zwischen 1750 und 1800]
+1110 2. Hälfte 18. Jahrhundert*1750-1800$a1750$b1800$4vzta
+1130 TB-papier-hr
+1131 !041454197!
+1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
+1500 /1zxx
+1700 /1XA-CZ
+3100 !1043864644!$BGeistiger Schöpfer$4cre
+4000 Riesaufdruck eines unbekannten Papiermachers, Motiv: zweiköpfiger Adler in ovalem Rahmen / Papiermühle Grün
+4019 Druckgrafik$Bobja
+4019 Fein Schreib$Bdevi
+4046 Doubrava : Papiermühle Grün
+4060 1 ungezähltes Blatt
+4062 302 x 203 mm$b302$h203$4bltt
+4062 202 x 145 mm$b202$h145$4bld
+4105 !1257829130!
+5100 !954901096!
+5590 [Objektgattung]
+5590 !042115752!
+5591 [Technik]
+5591 !040257363!
+5592 [Druck]
+5592 !041507266!
+5592 !965620964!
 5593 [Entstehungsort]
 5593 !1043862811!
 7001 25-08-22 : x
 4800 !009033645!
 6710 !1032059397!
 7100 PS.RA @ m
-7109 !!DBSM/S!! ; PS.RA 1980/Bl 89
-	
-0500 Pa
-0501 unbewegtes Bild$bsti
-0501 text$btxt
-0502 ohne Hilfsmittel zu benutzen$bn
-0503 Blatt$bnb
-0600 yy
-1100 1789$n[zwischen 1789 und 1819]
-1110 1789-1819 (Wirkungszeit des Papiermachers)*1789-1819$a1789$b1819$4vzta
-1130 TB-papier-hr
-1131 !041454197!
-1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
-1500 /1zxx
-1700 /1XA-DXDE
-3000 !1051303966!$BPapiermacher$4ppm
-3100 !1037995147!$BGeistiger Schöpfer$4cre
-4000 Riesaufdruck des Papiermachers Johann Samuel Kutter, Motiv: gekrönte Schlange in Blattoval / Obere Papiermühle im Ölschwang
-4019 Druckgrafik$Bobja
-4019 Gut Schlangen ISK$Bdevi
-4046 Ravensburg : Obere Papiermühle im Ölschwang
-4060 1 ungezähltes Blatt
-4062 243 x 151 mm$b243$h151$4bltt
-4062 160 x 128 mm$b160$h128$4bld
-4105 !1257829130!
-4201 Im 18. Jahrhundert besaßen Angehörige der Kaufmannsfamilie Kutter fünf der sechs in Ravensburg vorhandenen Papiermühlen. Die Initialen des Johann Samuel Kutter weisen diesen Riesaufdruck der oberen Papiermühle im Ölschwang zu. Für den späteren Nachdruck vom erhalten gebliebenen Druckstock waren weder eine genaue Datierung noch der von Kutter beschäftigte Papiermachermeister zu ermitteln. (Schlieder 1988, S. 156/157)
-4201 Wasserzeichen
-4276 !891000038!$4lita
-4276 !891000038!$4abba
-5100 !946418373!
-5101 !041658019!
-5320 !1043027912!
-5590 [Objektgattung]
-5590 !042115752!
-5591 [Technik]
-5591 !040257363!
-5592 [Druck]
-5592 !041507266!
-5592 !041803329!
-5593 [Entstehungsort]
-5593 !040486346!
-7001 25-08-22 : x
-4800 !009033645!
-6710 !1032059397!
-7100 PS.RA @ m
-7109 !!DBSM/S!! ; PS.RA 1971/Bl 209
-8034 Nachdruck
-	
-0500 Pa
-0501 unbewegtes Bild$bsti
-0501 text$btxt
-0502 ohne Hilfsmittel zu benutzen$bn
-0503 Blatt$bnb
-0600 yy
-1100 1797$n[zwischen 1797 und 1834]
-1110 1797-1834 (Wirkungszeit der Papiermacher)*1797-1834$a1797$b1834$4vzta
-1130 TB-papier-hr
-1131 !041454197!
-1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
-1500 /1zxx
-1700 /1XA-DXDE
-3100 !1038749905!$BGeistiger Schöpfer$4cre
-4000 Riesaufdruck des Papiermachers Kolb und Eckenstein, Motiv: liegender Löwe vor Säulenstumpf mit neun-feldrigem Wappen, in der Mitte Schild mit badischem Wappen / Papiermühle Höfen
-4019 Druckgrafik$Bobja
-4019 Fein Loewen Kolb in Schopfheim$Bdevi
-4046 Schopfheim : Papiermühle Höfen
-4060 1 ungezähltes Blatt
-4062 455 x 365 mm$b455$h365$4bltt
-4062 275 x 210 mm$b275$h210$4bld
-4105 !1257829130!
-4201 Wasserzeichen
-4201 Motiv identisch zu RA 1974/Bl 315
-5100 !041144368!
-5320 !1043027998!
-5320 !1043027556!
-5320 !1043027637!
-5320 !1043027408!
-5320 !1043027793!
-5320 !1043027408!
-5320 !1043027610!
-5590 [Objektgattung]
-5590 !042115752!
-5591 [Technik]
-5591 !040481662!
-5592 [Druck]
-5592 !041507266!
-5592 !041784820!
-5593 [Entstehungsort]
-5593 !040532003!
-7001 25-08-22 : x
-4800 !009033645!
-6710 !1032059397!
-7100 PS.RA @ m
-7109 !!DBSM/S!! ; PS.RA 1971/Bl 116
+7109 !!DBSM/S!! ; PS.RA 1980/Bl 92
 	

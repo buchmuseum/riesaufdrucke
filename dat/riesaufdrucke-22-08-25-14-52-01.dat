@@ -3976,8 +3976,10 @@
 1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
 1500 /1zxx
 1700 /1XA-CH
-3000 !1038569656!$BPapiermacher$4ppm
-3010 !13640118X!$BPapiermacher$4ppm
+3000 !1038569656
+13640118X!$BPapiermacher$4ppm
+3010 !1038569656
+13640118X!$BPapiermacher$4ppm
 3100 !103846160X!$BGeistiger Schöpfer$4cre
 4000 Riesaufdruck des Papiermachers Hans Rudolf und Ludwig Andreas Thurneysen, Motiv: Baselstab im Blattkranz und Ankermarke mit Initialen im Blattkranz / Zunzigermühle
 4019 Druckgrafik$Bobja

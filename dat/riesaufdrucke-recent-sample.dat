@@ -4,83 +4,40 @@
 0502 ohne Hilfsmittel zu benutzen$bn
 0503 Blatt$bnb
 0600 yy
-1100 1748$n[zwischen 1748 und 1785]
-1110 1748-1785 (Wirkungszeit des Papiermachers)*1748-1785$a1748$b1785$4vzta
-1130 TB-papier-hr
-1131 !041454197!
-1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
-1500 /1zxx
-1700 /1XA-DXDE
-3000 !125981954X!$BPapiermacher$4ppm
-3100 !1037327365!$BGeistiger Schöpfer$4cre
-4000 Riesaufdruck des Papiermachers Johann Bartholomäus Schleicher, Motiv: Wappen der Reichsgrafen von Giech / Papiermühle Heubsch
-4019 Druckgrafik$Bobja
-4019 Thurnauer feines Correspondenz Papier Johann Bartholomäus Schleicher$Bdevi
-4046 Heubsch : Papiermühle Heubsch
-4060 1 ungezähltes Blatt
-4062 351 x 220 mm$b351$h220$4bltt
-4062 222 x 167 mm$b222$h167$4bld
-4062 228 x 170 mm$b228$h170$4drck
-4105 !1257829130!
-4201 2 Dubletten
-4276 Motiv identisch zu RA 1980/Bl 94 und RA 1980/Bl 95$4rela
-5100 !954480481!
-5590 [Objektgattung]
-5590 !042115752!
-5591 [Technik]
-5591 !04033760X!
-5592 [Druck]
-5592 !041507266!
-5592 !041803329!
-5593 [Entstehungsort]
-5593 !1037327063!
-7001 25-08-22 : x
-4800 !009033645!
-6710 !1032059397!
-7100 PS.RA @ m
-7109 !!DBSM/S!! ; PS.RA 1971/Bl 302
-	
-0500 Pa
-0501 unbewegtes Bild$bsti
-0501 text$btxt
-0502 ohne Hilfsmittel zu benutzen$bn
-0503 Blatt$bnb
-0600 yy
-1100 1801$n[zwischen 1801 und 1850]
-1110 erste Hälfte 19. Jahrhundert*1801-1850$a1801$b1850$4vzta
-1130 TB-papier-hr
+1100 1709$n[zwischen 1709 und 1879]
+1110 1709-1879 (Wirkungszeit der Firma Honig, C & J)*1709-1879$a1709$b1879$4ezth
+1130 TB-papier-hv
 1131 !041454197!
 1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
 1500 /1zxx
 1700 /1XA-NL
-4000 Riesaufdruck eines unbekannten Papiermachers, Motiv: im gekrönten Kreis Wappenschild mit holländischem Löwen belegt, Kreis und Krone mit Blattzweigen umrahmt
+4000 Riesaufdruck, Motiv: Posthorn blasender Postreiter
 4019 Druckgrafik$Bobja
-4019 C. & I. H.$Bdevi
+4019 Velin Papier C. & I. Honig Papier Fabriekeurs$Bdevi
 4046 Zaandijk : [Nicht ermittelbar]
 4060 1 ungezähltes Blatt
-4062 334 x 427 mm$b334$h427$4bltt
-4062 175 x 132 mm$b175$h132$4bld
+4062 304 x 259 mm$b304$h259$4bltt
+4062 234 x 203 mm$b234$h203$4bld
+4062 290 x 242 mm$b290$h242$4drck
 4105 !1257829130!
-4201 Unter der Firmenbezeichnung "Cornelis & Jacob Honig" wurden u. a. die Papiermühlen "Het Herderskind" von 1733-1856 und "De Veenboer" von 1738-1879 betrieben. Es ist zu vermuten, dass der Riesaufdruck von einer dieser Papiermühlen stammt. Dieser für Schreibpapier verwendete Aufdruck bildet den holländischen Freiheitslöwen ab, der in den Pranken ein Schwert und ein Bündel mit sieben Pfeilen hält. Diese symbolisieren die sieben befreiten und vereinigten holländischen Provinzen. (Schlieder 1988, S. 166/167)
-4276 !891000038!$4lita
-4276 !891000038!$4abba
-5100 !041144368!
-5320 !1043027963!
+4700 |BSM|JR
+5100 !041776305!
+5101 !963257161!
 5590 [Objektgattung]
 5590 !042115752!
 5591 [Technik]
-5591 !040257363!
+5591 !040481662!
 5592 [Druck]
 5592 !041507266!
-5592 !041784820!
+5592 !041803329!
 5593 [Entstehungsort]
 5593 !1152976672!
-7001 25-08-22 : x
+7001 29-08-22 : x
 4800 !009033645!
 6710 !1032059397!
 7100 PS.RA @ m
-7109 !!DBSM/S!! ; PS.RA 1972/Bl 27
-8034 handschriftliche Notiz auf Voderseite: WZ a) C. & I. Honig b) leer
+7109 !!DBSM/S!! ; PS.RA 1974/Bl 289
+8034 Nachdruck
 	
 0500 Pa
 0501 unbewegtes Bild$bsti
@@ -89,7 +46,7 @@
 0503 Blatt$bnb
 0600 yy
 1100 1789$n[zwischen 1789 und 1819]
-1110 1789-1819 (Wirkungszeit des Papiermachers)*1789-1819$a1789$b1819$4vzta
+1110 1789-1819 (Wirkungszeit des Papiermachers)*1789-1819$a1789$b1819$4ezth
 1130 TB-papier-hr
 1131 !041454197!
 1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
@@ -97,15 +54,19 @@
 1700 /1XA-DXDE
 3000 !1051303966!$BPapiermacher$4ppm
 3100 !1037995147!$BGeistiger Schöpfer$4cre
-4000 Riesaufdruck des Papiermachers Johann Samuel Kutter, Motiv: gekrönter Reichsadler mit Zepter und Schwert, Brust belegt mit ISK-Monogramm / Obere Papiermühle im Ölschwang
+4000 Riesaufdruck, Motiv: gekrönter Reichsadler mit Zepter und Schwert, Brust belegt mit ISK-Monogramm / Johann Samuel Kutter ; Obere Papiermühle im Ölschwang
 4019 Druckgrafik$Bobja
 4019 ISK$Bdevi
 4046 Ravensburg : Obere Papiermühle im Ölschwang
 4060 1 ungezähltes Blatt
-4062 355 x 213 mm$b355$h213$4bltt
-4062 144 x 139 mm$b144$h139$4bld
+4062 311 x 203 mm$b311$h203$4bltt
+4062 143 x 141 mm$b143$h141$4bld
 4105 !1257829130!
-4276 Motiv identisch zu RA 1971/Bl 206, RA 1971/Bl 207, RA 1971/Bl 208, RA 1975/Bl 132$4rela
+4201 Ein weiterer Riesaufdruck von der Papiermühle des Johann Samuel Kutter zeigt den gekrönten Reichsadler, womit auf den Status Ravensburgs als Reichsstadt hingewiesen wird. Adlerpapier dieser Papiermühle ist für 1790 belegt. Der Nachdruck stammt von einem Druckstock, der sich heute im Deutschen Buch- und Schriftmuseum in Leipzig befindet. (Schlieder 1988, S. 158/159)
+4276 !891000038!$4lita
+4276 !891000038!$4abba
+4276 Motiv identisch zu RA 1971/Bl 205, RA 1971/Bl 206, RA 1971/Bl 207, RA 1975/Bl 132$4rela
+4700 |BSM|JR
 5100 !954901096!
 5101 !041658019!
 5102 !945895291!
@@ -118,56 +79,11 @@
 5592 !041803329!
 5593 [Entstehungsort]
 5593 !040486346!
-7001 25-08-22 : x
+7001 29-08-22 : x
 4800 !009033645!
 6710 !1032059397!
 7100 PS.RA @ m
-7109 !!DBSM/S!! ; PS.RA 1971/Bl 205
-8034 handschriftliche Notiz auf Voderseite: Riesumschlag der Papiermühle von Joh. Sam. Kutter in Ravensburg
-	
-0500 Pa
-0501 unbewegtes Bild$bsti
-0501 text$btxt
-0502 ohne Hilfsmittel zu benutzen$bn
-0503 Blatt$bnb
-0600 yy
-1100 1829$n[zwischen 1829 und 1839]
-1110 1829-1839 (Wirkungszeit des Papiermachers)*1829-1839$a1829$b1839$4vzta
-1130 TB-papier-hr
-1131 !041454197!
-1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
-1500 /1zxx
-1700 /1XA-DXDE
-3000 !1035296713!$BPapiermacher$4ppm
-3100 !1035382296!$BGeistiger Schöpfer$4cre
-4000 Riesaufdruck des Papiermachers Johann Hermann Langenbach, Motiv: mit Posthorn belegtes Wappen / Papiermühle Scheppen
-4019 Druckgrafik$Bobja
-4019 Super Fine Papier Velin$Bdevi
-4046 Fischlaken : Papiermühle Scheppen
-4060 1 ungezähltes Blatt
-4062 325 x 204 mm$b325$h204$4bltt
-4062 175 x 172 mm$b175$h172$4bld
-4105 !1257829130!
-4201 In dieser 1714 gegründeten Papiermühle wurden häufig die Wasserzeichen holländischer Papiermühlen nachgeahmt. So hat dieser Riesaufdruck, der von einem 1929 aufgefundenen, allerdings im oberen Teil beschädigten Druckstock stammt, Ähnlichkeit mit holländischen Aufdrucken. Das abgebildete Posthorn und die Aufschrift bezeugen die Verwendung für ungeripptes Briefpapier besserer Qualität. Der Vergleich mit einem äußerst ähnlichen Riesaufdruck einer Papiermühle der holländischen Firma Van Gelder lässt vermuten, dass es sich bei dem im oberen Teil fehlenden Stück um den holländischen Freiheitslöwen mit Schwert und Pfeilbündel in den Klauen handelte. Die Ähnlichkeit legt den Gedanken nahe, dass der der Papiermühle Fischlaken zugeschriebene Druckstock holländischen Ursprungs ist. (Schlieder 1988, S. 162/163)
-4276 !891000038!$4lita
-4276 !891000038!$4abba
-4276 Motiv ähnlich zu RA 1971/Bl 109$4rela
-5100 !954480481!
-5101 !963257161!
-5590 [Objektgattung]
-5590 !042115752!
-5591 [Technik]
-5591 !040257363!
-5592 [Druck]
-5592 !041507266!
-5592 !041784820!
-5593 [Entstehungsort]
-5593 !960259481!
-7001 25-08-22 : x
-4800 !009033645!
-6710 !1032059397!
-7100 PS.RA @ m
-7109 !!DBSM/S!! ; PS.RA 1973/Bl 19
+7109 !!DBSM/S!! ; PS.RA 1971/Bl 208
 8034 Nachdruck
 	
 0500 Pa
@@ -176,40 +92,130 @@
 0502 ohne Hilfsmittel zu benutzen$bn
 0503 Blatt$bnb
 0600 yy
-1130 TB-papier
+1100 1850$n[nicht nach 1850]
+1130 TB-papier-hr
 1131 !041454197!
 1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
 1500 /1zxx
 1700 /1XA-DXDE
-3000 !1035289067!$BPapiermacher$4ppm
-3100 !1034890573!$BGeistiger Schöpfer$4cre
-4000 Riesaufdruck des Papiermachers Magdalena Plöger, Motiv: mit Zierstück belegter Schild / Papiermühle Bentrup
+3000 !1030379912!$BPapiermacher$4ppm
+3100 !1029456992!$BGeistiger Schöpfer$4cre
+4000 Riesaufdruck, Motiv: im Zieroval von zwei Schildhalterlöwen gehaltenes reußisches Wappen mit Kranichen und Löwen, Herzschild mit Brackenkopf belegt / Johann Tischendorf ; Papiermühle Greiz
 4019 Druckgrafik$Bobja
-4019 Hansz Plögers nachgelassener Witwe zu Bentorpff$Bdevi
-4046 Bentrup : Papiermühle Bentrup
+4019 Gretzer Pappier Gretz 1685 Johann Tischendorf$Bdevi
+4046 Greiz : Papiermühle Greiz
 4060 1 ungezähltes Blatt
-4062 327 x 284 mm$b327$h284$4bltt
-4062 103 x 72 mm$b103$h72$4bld
+4062 335 x 410 mm$b335$h410$4bltt
+4062 232 x 180 mm$b232$h180$4bld
 4105 !1257829130!
-4201 Der Bogen stammt aus dem Stadtarchiv Lemgo, wo er als Aktenumschlag für Protokolle aus den Jahren 1626-1628 diente. Der Aufdruck bildet einen mit Zierstück belegten Schild ab. Darunter ist die Pächterin und der Ort der Papiermühle in veränderter Schreibweise angegeben. (Schlieder 1988, S. 38/39)
+4201 Ein späterer Riesaufdruck der Greizer Papiermühle zeigt das Wappen der Herrschaft Reuß ältere Linien mit Brackenkopf im Herzschild und Schildhalterlöwen. Auch der Name des Papiermachers wurde nun angegeben. (Schlieder 1988, S. 82/83)
 4201 Wasserzeichen
 4276 !891000038!$4lita
 4276 !891000038!$4abba
-5100 !041796012!
-5320 !104297389X!
+4276 Motiv identisch zu RA 1973/Bl 25$4rela
+4700 |BSM|JR
+5100 !954480481!
+5101 !041144368!
+5102 !949979899!
+5320 !1043025499!
 5590 [Objektgattung]
 5590 !042115752!
 5591 [Technik]
 5591 !040257363!
 5592 [Druck]
 5592 !041507266!
-5592 !041784820!
+5592 !041803329!
 5593 [Entstehungsort]
-5593 !1051891639!
-7001 25-08-22 : x
+5593 !040219720!
+7001 29-08-22 : x
+4800 !009033645!
+6710 !1032059397!
+6800 [Provenienz]
+6800 !050688081!
+6800 Notiz *handschriftliche und mit Bleistift angefertigte Notiz auf Rückseite: Aus den Sammlungen des Papiermuseums
+7100 PS.RA @ m
+7109 !!DBSM/S!! ; PS.RA 1971/Bl 308
+8034 handschriftliche Notiz aufgeklebt auf Vorderseite
+	
+0500 Pa
+0501 unbewegtes Bild$bsti
+0501 text$btxt
+0502 ohne Hilfsmittel zu benutzen$bn
+0503 Blatt$bnb
+0600 yy
+1100 1850$n[nicht nach 1850]
+1130 TB-papier-hr
+1131 !041454197!
+1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
+1500 /1zxx
+1700 /1XA-DXDE
+3000 !1031924612!$BPapiermacher$4ppm
+3100 !1031637184!$BGeistiger Schöpfer$4cre
+4000 Riesaufdruck, Motiv: Kirchberger Stadtwappen, von Genien umrahmt, darunter im Blattkranz Kurschwerter von Sachsen / Paul Hertel ; Papiermühle Kirchberg
+4019 Druckgrafik$Bobja
+4019 Pavlvs Hertel zv Kirchberg 1639 Pappier Mvhl zv Kirchbergk$Bdevi
+4046 Kirchberg : Papiermühle Kirchberg
+4060 1 ungezähltes Blatt
+4062 324 x 193 mm$b324$h193$4bltt
+4062 297 x 159 mm$b297$h159$4bld
+4105 !1257829130!
+4700 |BSM|JR
+5100 !041231392!
+5101 !954480481!
+5102 !945895291!
+5590 [Objektgattung]
+5590 !042115752!
+5591 [Technik]
+5591 !040257363!
+5592 [Druck]
+5592 !041507266!
+5592 !041803329!
+5593 [Entstehungsort]
+5593 !94734263X!
+7001 29-08-22 : x
+4800 !009033645!
+6710 !1032059397!
+6800 [Provenienz]
+6800 !1026149614!
+6800 Stempel *Sächs. Bibliographische Sammlung
+7100 PS.RA @ m
+7109 !!DBSM/S!! ; PS.RA Kl 1954/105
+8034 handschriftliche Notiz auf Vorderseite weist auf das Jahr 1666 hin; handschriftliche Notizen auf Rückseite, Stempel: Sächs. Bibliographische Sammlung
+	
+0500 Pa
+0501 unbewegtes Bild$bsti
+0501 text$btxt
+0502 ohne Hilfsmittel zu benutzen$bn
+0503 Blatt$bnb
+0600 yy
+1100 1850$n[zwischen 1850 und 1972]
+1110 1850-1972*1850-1972$a1850$b1972$4ezth
+1130 TB-papier
+1131 !041454197!
+1132 a1-analog;a2-druck;f1-bild;f2-blatt;o-org
+1500 /1zxx
+1700 /1XA-NL
+4000 Riesaufdruck, Motiv: Löwe auf einer fünfzackigen Krone stehend
+4019 Druckgrafik$Bobja
+4019 Trade Mark$Bdevi
+4046 [Nicht ermittelbar] : [Nicht ermittelbar]
+4060 1 ungezähltes Blatt
+4062 530 x 675 mm$b530$h675$4bltt
+4062 84 x 83 mm$b84$h83$4bld
+4105 !1257829130!
+4700 |BSM|JR
+5100 !041144368!
+5101 !041658019!
+5590 [Objektgattung]
+5590 !042115752!
+5591 [Technik]
+5591 !040257363!
+5592 [Druck]
+5592 !041507266!
+5592 !041803329!
+7001 29-08-22 : x
 4800 !009033645!
 6710 !1032059397!
 7100 PS.RA @ m
-7109 !!DBSM/S!! ; PS.RA 1972/Bl 4
-8034 handschriftliche Notiz auf Vorderseite
+7109 !!DBSM/S!! ; PS.RA 1972/Bl 19
 	
